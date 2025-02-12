@@ -6,22 +6,6 @@ permalink: design/image/
 <div class="loader">
 {% include innerpage-navigation.html %}
 {% include sidebar-syllabus.html %}
-<div class="top-search">
-  <div class="input-group">
-   <span class="input-group-addon">
-    <i class="ti-search"></i>
-   </span>
-   <input type="text" class="form-control" placeholder="Search for snippets ......">
-   <span class="input-group-addon close-search">
-    <i class="ti-close"></i>
-   </span>
-  </div>
- </div>
- <!-- /.End of Top Search -->
- <!-- Navbar Start --> <?php include '../includes/innerpage-navigation.php'; ?>
- <!-- /.End of Navbar -->
- <!-- Start Sidebar --> <?php include '../includes/sidebar-syllabus.php'; ?>
- <!-- /.End of Sidebar -->
  <div class="page-content">
   <div class="content-wrapper">
    <div class="row">

@@ -279,7 +279,7 @@ lcaCustomContact.innerHTML = `<div class="lcacontactus-message left" id="lcacont
             </div>
             <div class="lcacontactus-message-button">
                 <div class="static">
-                    <img src="../assets/img/chat/msg.svg" alt="Contact us">
+                    <img src="${BASE_URL}/assets/img/chat/msg.svg" alt="Contact us">
                     <!-- <p>Contact us</p> -->
                 </div>
                 <div class="callback-state">
@@ -320,7 +320,7 @@ lcaCustomContact.innerHTML = `<div class="lcacontactus-message left" id="lcacont
                     </div>
                 </div>
                 <div class="lcacontactus-close">
-                    <img src="../assets/img/chat/close.svg" alt="Close">
+                    <img src="${BASE_URL}/assets/img/chat/close.svg" alt="Close">
                 </div>
                 <div class="pulsation"></div>
                 <div class="pulsation"></div>

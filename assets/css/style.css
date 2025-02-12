@@ -1621,6 +1621,9 @@ code {
 
 }
 
+.metismenu .collapse.in {
+    display: block;
+}
 /*[Page Content]
 
 --------------------------*/
