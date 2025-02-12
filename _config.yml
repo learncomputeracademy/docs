@@ -31,6 +31,12 @@ github_username:  jekyll
 permalink: /:path/
 # Build settings
 
+# Collections for Documentation
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path/
+
 # theme: minima
 plugins:
   - jekyll-feed
