@@ -1,0 +1,311 @@
+free_images:
+  - name: Freepik
+    url: https://www.freepik.com/
+    thumbnail: "preview-1.png"
+  - name: Pexels
+    url: https://www.pexels.com
+    thumbnail: "preview-2.png"
+  - name: Unsplash
+    url: https://unsplash.com/
+    thumbnail: "preview-3.png"
+  - name: Burst
+    url: https://burst.shopify.com/
+    thumbnail: "preview-4.png"    
+  - name: Pixelmobs
+    url: https://pixelmob.co/
+    thumbnail: "preview-5.png"    
+  - name: Undraw
+    url: https://undraw.co/illustrations
+    thumbnail: "preview-6.png"    
+  - name: Tinypng
+    url: https://tinypng.com/
+    thumbnail: "preview-7.png"   
+  - name: Tinypng
+    url: https://tinypng.com/
+    thumbnail: "preview-7.png"  
+  - name: Pixabay
+    url: https://www.pixabay.com
+    thumbnail: "preview-8.png" 
+  - name: CleanPNG
+    url: https://www.cleanpng.com/
+    thumbnail: "preview-66.png"
+  - name: Fuzzimo
+    url: http://www.fuzzimo.com/
+    thumbnail: "preview-67.jpg"
+  - name: Photopea
+    url: https://www.photopea.com/
+    thumbnail: "preview-8-3.jpg"
+  - name: Graphic Burger
+    url: https://graphicburger.com/mock-ups/
+    thumbnail: "preview-8-4.jpg"
+  - name: Pixeden
+    url: https://www.pixeden.com/
+    thumbnail: "preview-8-5.jpg"
+  - name: Mockup World
+    url: https://www.mockupworld.co/all-mockups/
+    thumbnail: "preview-8-6.jpg"
+
+color_websites:
+  - name: Coolors
+    url: https://coolors.co/
+    thumbnail: "preview-9.png"
+  - name: Adobe Color
+    url: https://color.adobe.com/create
+    thumbnail: "preview-10.png"
+  - name: Flat UI Colors
+    url: https://flatuicolors.com/
+    thumbnail: "preview-11.png"
+  - name: Color Space
+    url: https://mycolor.space/
+    thumbnail: "preview-12.png"
+  - name: Color Hunt
+    url: https://colorhunt.co/
+    thumbnail: "preview-13.png" 
+  - name: Color Mind
+    url: http://colormind.io/bootstrap/
+    thumbnail: "preview-14.png"   
+  - name: Color Hexa
+    url: https://www.colorhexa.com/
+    thumbnail: "preview-15.png" 
+  - name: Canva
+    url: https://www.canva.com/learn/brand-color-palette/
+    thumbnail: "preview-16.png" 
+
+free_icons:
+  - name: Flaticon
+    url: https://www.flaticon.com/
+    thumbnail: "preview-17.png"
+  - name: Iconfinder
+    url: https://www.iconfinder.com/
+    thumbnail: "preview-18.png"
+  - name: Noun Project
+    url: https://thenounproject.com/
+    thumbnail: "preview-19.png"
+  - name: Icon Monstr
+    url: https://iconmonstr.com/
+    thumbnail: "preview-20.png"
+  - name: Material Icons
+    url: https://zavoloklom.github.io/material-design-iconic-font/icons.html
+    thumbnail: "preview-20-1.png"
+  - name: Icons 8
+    url: https://icons8.com/
+    thumbnail: "preview-20-2.png"
+  - name: Preloaders
+    url: https://icons8.com/preloaders
+    thumbnail: "preview-20-3.png"
+  - name: Iconify for HTML
+    url: https://iconify.design/icon-sets/
+    thumbnail: "preview-20-4.png"
+
+free_fonts:
+  - name: Google Fonts
+    url: https://fonts.google.com/
+    thumbnail: "preview-21.png"
+  - name: Dafont
+    url: https://www.dafont.com/
+    thumbnail: "preview-22.png"
+  - name: 1001 Fonts
+    url: https://www.1001fonts.com/
+    thumbnail: "preview-23.png"
+  - name: Font Squirrel
+    url: https://www.fontsquirrel.com/
+    thumbnail: "preview-24.png"
+  - name: Font Awesome 4.7.0
+    url: https://fontawesome.com/v4.7.0/icons/
+    thumbnail: "preview-25.png"
+  - name: Font Awesome 5.15.1
+    url: https://fontawesome.com/
+    thumbnail: "preview-26.png"
+  - name: Fontstruct
+    url: https://fontstruct.com/
+    thumbnail: "preview-26-1.jpg"
+  - name: Abstract Fonts
+    url: http://www.abstractfonts.com/
+    thumbnail: "preview-26-2.jpg"
+  - name: Font Zone
+    url: https://fontzone.net/
+    thumbnail: "preview-26-3.jpg"
+  - name: Goo Fonts
+    url: https://goofonts.com/
+    thumbnail: "preview-26-4.jpg"
+  - name: Boxicons
+    url: https://boxicons.com/
+    thumbnail: "preview-109.png"
+
+lorem_ipsums:
+  - name: Lorem Ipsum
+    url: https://www.lipsum.com/
+    thumbnail: "preview-27.png"
+
+webfont_generators:
+  - name: Transfonter
+    url: https://transfonter.org/
+    thumbnail: "preview-28.png"
+  - name: Web Font Generator
+    url: https://www.web-font-generator.com/
+    thumbnail: "preview-28-1.jpg"
+
+w3Schools:
+  - name: W3School HTML
+    url: https://www.w3schools.com/html/
+    thumbnail: "preview-29.png"
+  - name: W3School CSS
+    url: https://www.w3schools.com/css/default.asp
+    thumbnail: "assets/img/preview-30.png"
+  - name: W3School Bootstrap 4
+    url: https://www.w3schools.com/bootstrap4/default.asp
+    thumbnail: "preview-31.png"  
+
+css_generators:
+  - name: Shadow Generator
+    url: https://www.cssmatic.com/box-shadow
+    thumbnail: "preview-32.png" 
+  - name: Triangle Generator
+    url: http://apps.eky.hk/css-triangle-generator/
+    thumbnail: "preview-33.png" 
+  - name: Gradient Generator
+    url: https://www.cssmatic.com/gradient-generator
+    thumbnail: "preview-34.png"
+  - name: Hover Master
+    url: https://ianlunn.github.io/Hover/
+    thumbnail: "preview-35.png" 
+  - name: Animate CSS
+    url: https://daneden.github.io/animate.css/
+    thumbnail: "preview-36.png" 
+  - name: CSS Effects
+    url: https://cssfx.dev/
+    thumbnail: "preview-37.png" 
+  - name: CSS Grid
+    url: https://css-tricks.com/snippets/css/complete-guide-grid/
+    thumbnail: "preview-38.png"
+  - name: Animated Hamburgers
+    url: https://jonsuh.com/hamburgers/
+    thumbnail: "preview-39.png"
+  - name: Fancy Border Radius
+    url: https://9elements.github.io/fancy-border-radius/
+    thumbnail: "preview-40.png"  
+  - name: Text Input Effects
+    url: https://tympanus.net/Development/TextInputEffects/
+    thumbnail: "preview-41.png"  
+  - name: CSS Development
+    url: https://www.outpan.com/
+    thumbnail: "preview-41-1.png"  
+  - name: Animista
+    url: http://animista.net/
+    thumbnail: "preview-41-2.png" 
+  - name: The AppGuruz
+    url: https://www.theappguruz.com/tag-tools/web/CSSAnimations/
+    thumbnail: "preview-41-3.png" 
+  - name: Image Hover
+    url: https://imagehover.io/
+    thumbnail: "preview-41-4.png"  
+  - name: Gradient Background
+    url: https://tutuldevs.hashnode.dev/alt-of-img
+    thumbnail: "preview-41-5.png"    
+
+javascripts:
+  - name: W3Schools Javascript
+    url: https://www.w3schools.com/js/default.asp
+    thumbnail: "preview-42.png" 
+  - name: W3Schools JQuery
+    url: https://www.w3schools.com/jquery/default.asp
+    thumbnail: "preview-43.png" 
+  - name: Owl Carousel 2
+    url: https://owlcarousel2.github.io/OwlCarousel2/
+    thumbnail: "preview-44.png" 
+  - name: Slick Slider
+    url: https://kenwheeler.github.io/slick/
+    thumbnail: "preview-45.png" 
+  - name: Responsive Slider
+    url: http://responsiveslides.com/
+    thumbnail: "preview-46.png"
+  - name: AOS
+    url: https://michalsnik.github.io/aos/
+    thumbnail: "preview-47.png"  
+  - name: Tilt Js
+    url: https://gijsroge.github.io/tilt.js/
+    thumbnail: "preview-48.png" 
+  - name: Cleave Js
+    url: https://nosir.github.io/cleave.js/
+    thumbnail: "preview-49.png"
+  - name: Slide Menu
+    url: https://oncebot.github.io/pushbar.js/
+    thumbnail: "preview-50.png"
+  - name: Full Page
+    url: https://alvarotrigo.com/fullPage/
+    thumbnail: "preview-51.png"
+  - name: Rellax Js
+    url: https://dixonandmoe.com/rellax/
+    thumbnail: "preview-52.png"
+  - name: Scroll To Top
+    url: https://www.scrolltotop.com/
+    thumbnail: "preview-53.png"
+  - name: Metis Menu
+    url: https://open.med.harvard.edu/stash/projects/SHRINE/repos/shrine/browse/apps/steward-app/src/main/js/bower_components/metisMenu?at=0f6215c6fe3
+    thumbnail: "preview-54.png"
+  - name: Granim Js
+    url: https://sarcadass.github.io/granim.js/examples.html
+    thumbnail: "preview-55.png"
+  - name: WOW Js
+    url: https://wowjs.uk/
+    thumbnail: "preview-56.png"
+  - name: Fancybox
+    url: http://fancyapps.com/fancybox/3/
+    thumbnail: "preview-57.png"
+  - name: Accordion
+    url: https://jqueryui.com/accordion/#default
+    thumbnail: "preview-58.png"
+  - name: Swiper Slider
+    url: https://idangero.us/swiper/demos/
+    thumbnail: "preview-59.png"
+  - name: Particle Js
+    url: https://vincentgarreau.com/particles.js/
+    thumbnail: "preview-60.png"
+  - name: Parallax Js
+    url: https://matthew.wagerfield.com/parallax/
+    thumbnail: "preview-61.png"
+  - name: Simple Parallax Js
+    url: https://simpleparallax.com/
+    thumbnail: "preview-62.png"
+  - name: MultiScroll Js
+    url: https://alvarotrigo.com/multiScroll/
+    thumbnail: "preview-63.png"
+  - name: Scroll Me Js
+    url: http://scrollme.nckprsn.com/
+    thumbnail: "preview-64.png"
+  - name: JavaScripting
+    url: https://www.javascripting.com
+    thumbnail: "preview-65.png"
+
+design_uis:
+  - name: Visit
+    url: https://vectr.com/
+    thumbnail: "preview-101.png" 
+  - name: Clever Brush
+    url: https://www.cleverbrush.com/
+    thumbnail: "preview-102.png"
+  - name: Figma
+    url: https://www.figma.com/
+    thumbnail: "preview-103.png"
+  - name: Whimsical
+    url: https://whimsical.com/
+    thumbnail: "preview-104.png"
+  - name: Mindmup
+    url: https://www.mindmup.com/
+    thumbnail: "preview-105.png"
+  - name: All The Freestock
+    url: https://allthefreestock.com/
+    thumbnail: "preview-106.png"
+  - name: Code My UI
+    url: https://codemyui.com/
+    thumbnail: "preview-107.png"
+  - name: Landen
+    url: https://www.landen.co/
+    thumbnail: "preview-108.png"
+
+
+
+
+
+
+    

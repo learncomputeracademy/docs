@@ -366,9 +366,10 @@ code {
 
 --------------------------*/
 
-.loader{
+.loader,
+.pace{
 
-    /*display: none;*/
+    display: none;
 
 }
 
@@ -494,7 +495,7 @@ code {
 
     background-color: #fff;
 
-    border-color: #ggg;
+    border-color: #fff;
 
 }
 
@@ -1620,6 +1621,9 @@ code {
 
 }
 
+.metismenu .collapse.in {
+    display: block;
+}
 /*[Page Content]
 
 --------------------------*/

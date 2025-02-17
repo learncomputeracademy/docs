@@ -15,20 +15,6 @@
 <!-- Favicon -->
 <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/img/favicon.png" />
 
-
-<!-- Analytics -->
-    <script type="text/javascript">
-      var _paq = window._paq || [];
-      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="https://www.learncomputer.in/analytics/";
-        _paq.push(['setTrackerUrl', u+'matomo.php']);
-        _paq.push(['setSiteId', '2']);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <!-- End Analytics Code -->
-<marquee id="warning" style="padding:7px 0; font-size: 11px; background-color:#ffc107; color:#000; text-align:center; z-index: 9999999; position: relative;">This website is the best viewed in bigger devices. <span style="margin-right: 15px; float: right; font-size: 13px;"></span><i class="fas fa-times-circle"></i></marquee>
+<script>
+    let BASE_URL = "{{ site.baseurl }}";
+</script>

@@ -1,0 +1,386 @@
+---
+permalink: /box-shadow-generator
+layout: page
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Box Shadow Generator</title>
+	<style>
+		@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f4f4f4;
+  color: #111;
+}
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 2rem 0;
+}
+
+/* Box Container */
+.box-container {
+  background-color: #fff;
+  min-height: 50vh;
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  /* overflow: hidden; */
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#box {
+  width: 300px;
+  height: 300px;
+  margin: 160px;
+  background-color: #40739e;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25);
+}
+#box-container-colors {
+  position: absolute;
+  background-color: #fff;
+  color: #111;
+  border: 1px solid #ccc;
+  top: 1rem;
+  right: 1rem;
+  padding: 1rem;
+}
+#box-container-colors .input-block label {
+  margin-right: 3px;
+}
+#box-container-colors .input-block:first-child {
+  margin-bottom: 1rem;
+}
+
+/* Generated CSS Container */
+.generated-css-container {
+  width: 50%;
+  margin: 1.5rem auto;
+  line-height: 2rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  background-color: #fff;
+  color: #111;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#generated-css {
+  font-family: Consolas, monaco, monospace;
+}
+#generated-css-copy-btn {
+  cursor: pointer;
+  background-color: #111;
+  color: #fff;
+  border: none;
+  width: 5rem;
+  text-align: center;
+  padding: 0.5rem;
+}
+#generated-css-copy-btn.success {
+  background-color: #10ac84;
+}
+#generated-css-copy-btn.error {
+  background-color: #c74b47;
+}
+
+/* Settings */
+.settings {
+  width: 90%;
+  margin: 1.5rem auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.settings .input-block {
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  white-space: nowrap;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.settings .input-block label {
+  margin-bottom: 0.75rem;
+}
+.settings .input-block input {
+  width: 5rem;
+  height: 2rem;
+  font-size: 1.25rem;
+  font-family: inherit;
+}
+.settings .input-block input[type="number"] {
+  padding-left: 0.5rem;
+}
+
+@media(max-width:1599px) {
+  h1 {
+    margin: 1.75rem 0;
+  }
+  .generated-css-container {
+    width: 60%;
+  }
+  #box {
+    width: 200px;
+    height: 200px;
+    margin: 110px;
+  }
+}
+@media(max-width:1199px) {
+  .generated-css-container {
+    width: 75%;
+  }
+}
+@media(max-width:959px) {
+  .settings .input-block {
+    flex-basis: 25%;
+  }
+  .generated-css-container {
+    width: 90%;
+  }
+}
+@media(max-width:767px) {
+  html {
+    font-size: 12px;
+  }
+  h1 {
+    font-size: 2rem;
+    margin: 1.5rem 0;
+  }
+  .box-container {
+    width: 95%;
+    min-height: 53vh;
+  }
+  #box {
+    width: 120px;
+    height: 120px;
+    margin: 70px;
+  }
+  #box-container-colors {
+    top: 0.25rem;
+    right: 0.25rem;
+    padding: 0.5rem;
+  }
+  #box-container-colors .input-block label {
+    margin-right: 2px;
+  }
+  #box-container-colors .input-block:first-child {
+    margin-bottom: 0.75rem;
+  }
+  .generated-css-container {
+    width: 95%;
+    margin: 1.5rem auto 1.25rem auto;
+    padding: 0.75rem 0.5rem;
+    border-radius: 0;
+    position: relative;
+  }
+  #generated-css {
+    font-size: 10px;
+  }
+  #generated-css-copy-btn {
+    position: absolute;
+    right: 0.25rem;
+    top: -1rem;
+    font-size: 0.75rem;
+    width: 4.5rem;
+    border-radius: 0.25rem;
+  }
+  .settings {
+    width: 95%;
+    margin: 1.25rem auto;
+  }
+  .settings .input-block {
+    padding: 0.75rem;
+    font-size: 1.25rem;
+  }
+}
+
+.return-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0075ff;
+    border-radius: 2px;
+    box-shadow: 0 0 15px 0 rgba(255,255,255,.23);
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    margin-top: 50px;
+    display: inline-block;
+}
+	</style>
+</head>
+<body>
+	<h1>Box Shadow Editor</h1>
+
+<div class="box-container">
+  <div id="box"></div>
+  <div id="box-container-colors">
+    <div class="input-block">
+      <label for="box-background">box:</label>
+      <input type="color" name="box-background" id="box-background" value="#40739e">
+    </div>
+    <div class="input-block">
+      <label for="box-container-background">background:</label>
+      <input type="color" name="box-container-background" id="box-container-background" value="#ffffff">
+    </div>
+    <a href="https://docs.learncomputer.in" class="return-btn">← Back Home</a>
+  </div>
+</div>
+
+<div class="generated-css-container">
+  <div id="generated-css">box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25);</div>
+  <!-- Create the "Copy to Clipboard" button dynamically with JavaScript, only if "navigator.clipboard" is supported by the browser -->
+  <!-- <button id="generated-css-copy-btn">Copy</button> --> 
+</div>
+
+<div class="settings">
+  <div class="input-block">
+    <label for="h-offset">h-offset</label>
+    <input type="number" name="h-offset" id="h-offset" value="10">
+  </div>
+  <div class="input-block">
+    <label for="v-offset">v-offset</label>
+    <input type="number" name="v-offset" id="v-offset" value="10">
+  </div>
+  <div class="input-block">
+    <label for="blur-radius">blur</label>
+    <input type="number" min="0" name="blur-radius" id="blur-radius" value="5">
+  </div>
+  <div class="input-block">
+    <label for="spread-radius">spread</label>
+    <input type="number" name="spread-radius" id="spread-radius" value="0">
+  </div>
+  <div class="input-block">
+    <label for="color">color</label>
+    <input type="color" name="color" id="color" value="#000000">
+  </div>
+  <div class="input-block">
+    <label for="opacity">opacity</label>
+    <input type="number" min="0" max="1" step="0.01" name="opacity" id="opacity" value="0.25">
+  </div>
+  <div class="input-block">
+    <label for="inset">inset</label>
+    <input type="checkbox" name="inset" id="inset">
+  </div>
+</div>
+
+<script>
+  // Create the "Copy to Clipboard" button only if "navigator.clipboard" is supported by the browser
+  if (navigator.clipboard) {
+    const generatedCssContainer = document.querySelector(".generated-css-container");
+    const generatedCssCopyBtn = document.createElement("button");
+    generatedCssCopyBtn.id = "generated-css-copy-btn";
+    generatedCssCopyBtn.textContent = "Copy";
+    generatedCssContainer.appendChild(generatedCssCopyBtn);
+  }
+</script>
+	<script>
+		const box = document.querySelector("#box");
+const boxContainer = document.querySelector(".box-container");
+const boxBackground = document.querySelector("#box-background");
+const boxContainerBackground = document.querySelector("#box-container-background");
+
+const generatedCss = document.querySelector("#generated-css");
+
+const settings = document.querySelectorAll(".settings input");
+const hOffset = document.querySelector("#h-offset");
+const vOffset = document.querySelector("#v-offset");
+const blurRadius = document.querySelector("#blur-radius");
+const spreadRadius = document.querySelector("#spread-radius");
+const color = document.querySelector("#color");
+const opacity = document.querySelector("#opacity");
+const inset = document.querySelector("#inset");
+
+boxBackground.addEventListener("input", event => {
+  box.style.backgroundColor = event.currentTarget.value;
+});
+boxContainerBackground.addEventListener("input", event => {
+  boxContainer.style.backgroundColor = event.currentTarget.value;
+});
+
+settings.forEach(setting => {
+  setting.addEventListener("input", updateBoxShadow);
+});
+
+function updateBoxShadow(event) {
+  if(event.currentTarget===blurRadius) {
+    if(blurRadius.value<0) blurRadius.value = 0;
+  }
+  if(event.currentTarget===opacity) {
+    if(opacity.value<0) opacity.value = 0;
+    if(opacity.value>1) opacity.value = 1;
+  }
+  
+  const boxShadow = `${hOffset.value}px ${vOffset.value}px ${blurRadius.value}px ${spreadRadius.value}px rgba(${hexToRGB(color.value).join(", ")}, ${opacity.value})${inset.checked ? " inset" : ""}`;
+  box.style.boxShadow = boxShadow;
+  generatedCss.textContent = `box-shadow: ${boxShadow};`;
+}
+
+// Copy to Clipboard (using the Clipboard API which is available on the navigator.clipboard object)
+
+if (navigator.clipboard) {
+  const generatedCssCopyBtn = document.querySelector("#generated-css-copy-btn");
+  
+  generatedCssCopyBtn.addEventListener("click", generatedCssCopyBtnClick);
+
+  function generatedCssCopyBtnClick() {
+    generatedCssCopyBtn.disabled = true;
+    navigator.clipboard.writeText(generatedCss.textContent).then(function() { /* clipboard successfully set */
+      generatedCssCopyBtn.textContent = "Copied!";
+      generatedCssCopyBtn.classList.add("success");
+      setTimeout(() => {
+        generatedCssCopyBtn.classList.remove("success"); 
+        generatedCssCopyBtn.textContent = "Copy";
+        generatedCssCopyBtn.disabled = false;
+      }, 1000);
+    }, function(err) { /* clipboard write failed */
+      generatedCssCopyBtn.textContent = "Error";
+      generatedCssCopyBtn.classList.add("error");
+      console.error(`Failed to copy to clipboard! ${err}`);
+      setTimeout(() => {
+        generatedCssCopyBtn.classList.remove("error"); 
+        generatedCssCopyBtn.textContent = "Copy";
+        generatedCssCopyBtn.disabled = false;
+      }, 1000);    
+    });
+  }
+}
+
+// Auxiliary Functions
+
+function hexToRGB(h) {
+  let r = 0;
+  let g = 0;
+  let b = 0;
+
+  // 3 digits
+  if (h.length == 4) {
+    r = "0x" + h[1] + h[1];
+    g = "0x" + h[2] + h[2];
+    b = "0x" + h[3] + h[3];
+
+  // 6 digits
+  } else if (h.length == 7) {
+    r = "0x" + h[1] + h[2];
+    g = "0x" + h[3] + h[4];
+    b = "0x" + h[5] + h[6];
+  }
+  return [+r, +g, +b];
+  // return `rgb(${+r}, ${+g}, ${+b})`;
+}
+	</script>
+</body>
+</html>
