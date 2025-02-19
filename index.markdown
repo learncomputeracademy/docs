@@ -15,9 +15,9 @@ title: Home | Learn Computer Academy
              </h1>
              <p>Want to become a professional Front-end developer? Browse through our vast collection of <span>Graphics Design</span>, <span>Web Design,</span> and <span>Web Development</span> documentation. </p>
              <div class="header-btn">
-               <a href="design/photoshop/photoshop-intro" class="btn btn-white btn-round">Study Material</a>
-               <a href="syllabus" class="btn btn-white btn-round">Syllabus</a>
-               <a href="resourses" class="btn btn-white btn-round">Resourses</a>
+               <a href="design/photoshop-intro" class="btn btn-white btn-round">Study Material</a>
+               <a href="/syllabus" class="btn btn-white btn-round">Syllabus</a>
+               <a href="/resourses" class="btn btn-white btn-round">Resourses</a>
              </div>
            </div>
          </div>

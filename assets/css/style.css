@@ -242,6 +242,33 @@ code {
 
 }
 
+/*[Custom Search Bar]
+
+--------------------------*/
+#search-box {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #results {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  #results li {
+    padding: 5px 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #results li a {
+    text-decoration: none;
+    color: #0054D1;
+  }
+  
+
 /*[Flaticon icon font]
 
 --------------------------*/

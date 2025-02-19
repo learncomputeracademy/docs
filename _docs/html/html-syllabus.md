@@ -13,7 +13,7 @@ permalink: html/html-syllabus/
                             <!-- Your content goes started here -->
                             <div class="doc-content">
                                 <h2>HTML - Hyper Text Markup Language</h2>
-                                <p class="note"><b>NOTE:</b> To know in details about HTML, click <a href="html-intro">here</a>.</p>
+                                <p class="note"><b>NOTE:</b> To know in details about HTML, click <a href="/html/html-intro">here</a>.</p>
                                 <hr>
                                 <h2>Follow this <b>file</b> and <b>folder</b> structure to start your professional Project.</h2>
                                 <div class="graph-block" style="width: 50%;">

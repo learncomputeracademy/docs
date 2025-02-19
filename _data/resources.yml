@@ -151,9 +151,9 @@ w3Schools:
     thumbnail: "preview-29.png"
   - name: W3School CSS
     url: https://www.w3schools.com/css/default.asp
-    thumbnail: "assets/img/preview-30.png"
-  - name: W3School Bootstrap 4
-    url: https://www.w3schools.com/bootstrap4/default.asp
+    thumbnail: "preview-30.png"
+  - name: W3School Bootstrap 5
+    url: https://www.w3schools.com/bootstrap5/index.php
     thumbnail: "preview-31.png"  
 
 css_generators:

@@ -112,9 +112,9 @@ permalink: design/graphics-design-flyer/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="graphics-design-poster" class="btn">
+      <a href="/design/graphics-design-poster" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="graphics-design-brochure-intro" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/graphics-design-brochure-intro" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

@@ -18,7 +18,7 @@ permalink: design/photoshop-syllabus/
        <img src="{{ site.baseurl }}/../assets/img/Photoshop_CC_icon.png" alt="PS LOGO" style="max-width:100px; height: auto;">
       </div>
       <p>Photoshop is Adobe's photo editing, image creation and graphic design software.</p>
-      <p>The software provides many image editing features for <a href="{{ site.baseurl }}/raster-graphics" target="_blank">raster</a> ( <a href="{{ site.baseurl }}/pixel" target="_blank">pixel</a>-based) <a href="{{ site.baseurl }}/image" target="_blank">images</a> as well as <a href="{{ site.baseurl }}/vector-graphics" target="_blank">vector graphics</a>. It uses a layer-based editing system that enables image creation and altering with multiple overlays that support transparency. Layers can also act as masks or filters, altering underlying colors. Shadows and other effects can be added to the layers. Photoshop actions include automation features to reduce the need for repetitive tasks. An option known as Photoshop CC (Creative Cloud) allows users to work on content from any computer. </p>
+      <p>The software provides many image editing features for <a href="{{ site.baseurl }}/design/raster-graphics" target="_blank">raster</a> ( <a href="{{ site.baseurl }}/design/pixel" target="_blank">pixel</a>-based) <a href="{{ site.baseurl }}/design/image" target="_blank">images</a> as well as <a href="{{ site.baseurl }}/design/vector-graphics" target="_blank">vector graphics</a>. It uses a layer-based editing system that enables image creation and altering with multiple overlays that support transparency. Layers can also act as masks or filters, altering underlying colors. Shadows and other effects can be added to the layers. Photoshop actions include automation features to reduce the need for repetitive tasks. An option known as Photoshop CC (Creative Cloud) allows users to work on content from any computer. </p>
       <hr>
       <h2>How is Photoshop Used?</h2>
       <p>Adobe Photoshop is a critical tool for designers, web developers, graphic artists, photographers, and creative professionals. It is widely used for image editing, retouching, creating image compositions, website mockups, and adding affects. Digital or scanned images can be edited for use online or in-print. Website layouts can be created within Photoshop; their designs can be finalized before developers move on to the coding stage. Stand-alone graphics can be created and exported for use within other programs.</p>
@@ -53,7 +53,7 @@ permalink: design/photoshop-syllabus/
      <div class="footer-btn d-flex justify-content-between">
       <a href="/syllabus" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="../graphics-design/graphics-design-intro" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/graphics-design-intro" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

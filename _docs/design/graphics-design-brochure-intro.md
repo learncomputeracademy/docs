@@ -156,14 +156,15 @@ permalink: design/graphics-design-brochure-intro/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="graphics-design-flyer" class="btn">
+      <a href="/design/graphics-design-flyer" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="graphics-design-brochure-exercise" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/graphics-design-brochure-exercise" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->
     </div>
-    <!-- Right Sidebar Start--> <?php include '../../includes/right-sidebar-innerpage.php'; ?>
+    <!-- Right Sidebar Start--> 
+    {% include search.html %}
     <!-- Right-Sidebar End -->
    </div>
   </div>

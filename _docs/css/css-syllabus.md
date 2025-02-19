@@ -20,7 +20,7 @@ permalink: css/css-syllabus/
                             <!-- Your content goes started here -->
                             <div class="doc-content">
                                 <h2>CSS - Cascading Style Sheets</h2>
-                                <p class="note"><b>NOTE:</b> To know in details about CSS, click <a href="css-intro">here</a>.</p>
+                                <p class="note"><b>NOTE:</b> To know in details about CSS, click <a href="/css/css-intro">here</a>.</p>
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
