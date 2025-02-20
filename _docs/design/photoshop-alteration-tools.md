@@ -168,9 +168,9 @@ permalink: design/photoshop-alteration-tools/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="photoshop-selection-tools" class="btn">
+      <a href="/design/photoshop-selection-tools" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="photoshop-drawing-selection-tools" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/photoshop-drawing-selection-tools" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

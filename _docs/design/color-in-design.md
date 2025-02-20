@@ -168,9 +168,9 @@ permalink: design/color-in-design/
           </div>
           <!-- /.Your content goes ends here -->
           <div class="footer-btn d-flex justify-content-between">
-            <a href="color-theory" class="btn">
+            <a href="/design/color-theory" class="btn">
               <i class="fas fa-arrow-circle-left"></i>Previous </a>
-            <a href="typography" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+            <a href="/design/typography" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
             </a>
           </div>
           <!-- /.End of footer button -->

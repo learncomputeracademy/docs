@@ -105,9 +105,9 @@ permalink: design/web-design/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="typography" class="btn">
+      <a href="/design/typography" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="../html/html-syllabus" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/html/html-syllabus" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

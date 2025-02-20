@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: JavaScript Syllabus | Learn Computer Academy
 permalink: javascript/js-syllabus/
 ---
 <div class="loader">
@@ -38,8 +38,8 @@ permalink: javascript/js-syllabus/
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="../css/css-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="jquery" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/javascript/jquery" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

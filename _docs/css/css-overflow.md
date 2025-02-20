@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Overflow | Learn Computer Academy
 permalink: css/css-overflow/
 ---
 <div class="loader">
@@ -110,8 +110,8 @@ permalink: css/css-overflow/
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-positioning" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-float" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-positioning" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-float" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

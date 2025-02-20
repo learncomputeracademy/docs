@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Layout | Learn Computer Academy
 permalink: css/css-inline-block/
 ---
 <div class="loader">
@@ -96,8 +96,8 @@ span.c {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-float" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-align" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-float" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-align" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

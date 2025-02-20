@@ -93,9 +93,9 @@ permalink: design/typography/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="color-in-design" class="btn">
+      <a href="/design/color-in-design" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="web-design" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/web-design" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

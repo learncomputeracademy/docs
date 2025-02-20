@@ -105,9 +105,9 @@ permalink: design/graphics-design-ui-exercise/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="graphics-design-menu-exercise" class="btn">
+      <a href="/design/graphics-design-menu-exercise" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="../color-theory" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/color-theory" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

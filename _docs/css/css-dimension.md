@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Dimension | Learn Computer Academy
 permalink: css/css-dimension/
 ---
 <div class="loader">
@@ -102,8 +102,8 @@ permalink: css/css-dimension/
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-padding" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-boxmodel" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-padding" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-boxmodel" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

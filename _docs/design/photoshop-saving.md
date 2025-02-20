@@ -35,9 +35,9 @@ permalink: design/photoshop-saving/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="photoshop-resizing" class="btn">
+      <a href="/design/photoshop-resizing" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="photoshop-shortcut-keys" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/photoshop-shortcut-keys" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

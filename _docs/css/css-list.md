@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS List | Learn Computer Academy
 permalink: css/css-list/
 ---
 <div class="loader">
@@ -220,8 +220,8 @@ ul li {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-link" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-table" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-link" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-table" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

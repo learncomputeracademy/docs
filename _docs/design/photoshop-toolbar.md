@@ -33,14 +33,15 @@ permalink: design/photoshop-toolbar/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="photoshop-intro" class="btn">
+      <a href="/design/photoshop-intro" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="photoshop-selection-tools" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/photoshop-selection-tools" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->
     </div>
-    <!-- Right Sidebar Start--> <?php include '../../includes/right-sidebar-innerpage.php'; ?>
+    <!-- Right Sidebar Start--> 
+    <?php include '../../includes/right-sidebar-innerpage.php'; ?>
     <!-- Right-Sidebar End -->
    </div>
   </div>

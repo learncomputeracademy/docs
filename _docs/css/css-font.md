@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Fonts | Learn Computer Academy
 permalink: css/css-font/
 ---
 <div class="loader">
@@ -228,8 +228,8 @@ p.small {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-text" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-icons" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-text" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-icons" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

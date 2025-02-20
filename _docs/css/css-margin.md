@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Margin | Learn Computer Academy
 permalink: css/css-margin/
 ---
 <div class="loader">
@@ -178,8 +178,8 @@ h2 {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-border" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-padding" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-border" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-padding" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

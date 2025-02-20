@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Form | Learn Computer Academy
 permalink: css/css-form/
 ---
 <div class="loader">
@@ -198,8 +198,8 @@ permalink: css/css-form/
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-dropdowns" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-units" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-dropdowns" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-units" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

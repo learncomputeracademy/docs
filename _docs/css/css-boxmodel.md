@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Box Model | Learn Computer Academy
 permalink: css/css-boxmodel/
 ---
 <div class="loader">
@@ -26,7 +26,7 @@ permalink: css/css-boxmodel/
                                 <p>All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout.</p>
                                 <p>The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model:</p>
                                 <div class="img-block">
-                                    <img src="assets/img/boxmodel.jpg" alt="boxmodel" class="img-fluid">
+                                    <img src="{{ site.baseurl }}/assets/img/boxmodel.jpg" alt="boxmodel" class="img-fluid">
                                 </div>
                                 <p>Explanation of the different parts:</p>
                                 <ul>
@@ -67,8 +67,8 @@ permalink: css/css-boxmodel/
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-dimension" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-outline" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-dimension" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-outline" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

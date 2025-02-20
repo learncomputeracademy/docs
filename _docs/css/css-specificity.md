@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Speficity | Learn Computer Academy
 permalink: css/css-specificity/
 ---
 <div class="loader">
@@ -77,7 +77,7 @@ h1 {background-color: red;}</code></pre>
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-units" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-units" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
                                 <!-- <a href="#" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a> -->
                             </div>
                             <!-- /.End of footer button -->

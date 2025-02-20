@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Outline | Learn Computer Academy
 permalink: css/css-outline/
 ---
 <div class="loader">
@@ -27,7 +27,7 @@ permalink: css/css-outline/
                                 <h2>CSS Outline</h2>
                                 <p>An outline is a line that is drawn around elements, OUTSIDE the borders, to make the element "stand out".</p>
                                 <div class="img-block" style="margin-bottom: 1rem;">
-                                    <img src="assets/img/outline-img.jpg" alt="boxmodel" class="img-fluid">
+                                    <img src="{{ site.baseurl }}/assets/img/outline-img.jpg" alt="boxmodel" class="img-fluid">
                                 </div>
                                 <p>CSS has the following outline properties:</p>
                                 <ul>
@@ -229,8 +229,8 @@ p.ex4 {outline: thick ridge pink;}</code></pre>
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-boxmodel" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-text" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-boxmodel" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-text" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

@@ -80,9 +80,9 @@ permalink: design/photoshop-layers/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="photoshop-color-boxes" class="btn">
+      <a href="/design/photoshop-color-boxes" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="photoshop-resizing" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/photoshop-resizing" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

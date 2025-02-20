@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Units | Learn Computer Academy
 permalink: css/css-units/
 ---
 <div class="loader">
@@ -124,8 +124,8 @@ permalink: css/css-units/
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-form" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-specificity" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-form" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-specificity" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

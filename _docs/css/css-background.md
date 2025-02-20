@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Background | Learn Computer Academy
 permalink: css/css-background/
 ---
 <div class="loader">
@@ -124,8 +124,8 @@ permalink: css/css-background/
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-colors" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-border" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-colors" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-border" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

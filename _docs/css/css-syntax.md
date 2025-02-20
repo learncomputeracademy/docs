@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Syntax | Learn Computer Academy
 permalink: css/css-syntax/
 ---
 <div class="loader">
@@ -115,8 +115,8 @@ comment */</code></pre>
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-intro" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-howto" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-intro" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-howto" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

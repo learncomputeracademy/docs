@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Introduction of CSS | Learn Computer Academy
 permalink: css/css-intro/
 ---
 <div class="loader">
@@ -93,7 +93,7 @@ permalink: css/css-intro/
                          <p>Follow these steps to use external CSS:</p>
                          <ol>
                              <li>Create a new <b>.css</b> file with the text editor, and add the style rules. For example:</li>
-                             <pre class="snippet"><code class="css">.xleftcol {
+<pre class="snippet"><code class="css">.xleftcol {
    float: left;
    width: 33%;
    background:#809900;
@@ -152,7 +152,7 @@ permalink: css/css-intro/
                                  <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
                                 <a href="/html/html5-new-elements" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-syntax" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-syntax" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
 

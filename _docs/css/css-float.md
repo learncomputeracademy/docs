@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Float | Learn Computer Academy
 permalink: css/css-float
 ---
 <div class="loader">
@@ -128,10 +128,10 @@ permalink: css/css-float
                                   <div style="background-color:#bbb;padding: 20px;text-align: center;float: left;max-width: 33.333%;width: 33.333%;">
                                     <p>Box 1</p>
                                   </div>
-                                  <div style="background-color:#ccc;padding: 20px;text-align: center;float: left;max-width: 33.333%;width: 33.333%;"">
+                                  <div style="background-color:#ccc;padding: 20px;text-align: center;float: left;max-width: 33.333%;width: 33.333%;">
                                     <p>Box 2</p>
                                  </div>
-                                  <div style="background-color:#ddd;padding: 20px;text-align: center;float: left;max-width: 33.333%;width: 33.333%;"">
+                                  <div style="background-color:#ddd;padding: 20px;text-align: center;float: left;max-width: 33.333%;width: 33.333%;">
                                     <p>Box 3</p>
                                   </div>
                                 </div>
@@ -234,8 +234,8 @@ permalink: css/css-float
                         </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-overflow" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-inline-block" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-overflow" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-inline-block" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

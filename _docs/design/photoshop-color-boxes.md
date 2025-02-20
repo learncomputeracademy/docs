@@ -47,9 +47,9 @@ permalink: design/photoshop-color-boxes/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="photoshop-additional-tools" class="btn">
+      <a href="/design/photoshop-additional-tools" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="photoshop-layers" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/photoshop-layers" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Visibility | Learn Computer Academy
 permalink: css/css-display-visibility/
 ---
 <div class="loader">
@@ -109,8 +109,8 @@ permalink: css/css-display-visibility/
                                 </table>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-table" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-max-width" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-table" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-max-width" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         <!-- Right Sidebar Start-->

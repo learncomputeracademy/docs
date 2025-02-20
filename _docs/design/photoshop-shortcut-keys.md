@@ -18,7 +18,7 @@ permalink: design/photoshop-shortcut-keys/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="photoshop-saving" class="btn">
+      <a href="/design/photoshop-saving" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
       <a href="/html/html-intro" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>

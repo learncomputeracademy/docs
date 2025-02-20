@@ -85,9 +85,9 @@ permalink: design/photoshop-resizing/
     </div>
     <!-- /.Your content goes ends here -->
     <div class="footer-btn d-flex justify-content-between">
-     <a href="photoshop-layers" class="btn">
+     <a href="/design/photoshop-layers" class="btn">
       <i class="fas fa-arrow-circle-left"></i>Previous </a>
-     <a href="photoshop-saving" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+     <a href="/design/photoshop-saving" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
      </a>
     </div>
     <!-- /.End of footer button -->

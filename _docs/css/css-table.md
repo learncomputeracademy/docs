@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Table | Learn Computer Academy
 permalink: css/css-table/
 ---
 <div class="loader">
@@ -491,8 +491,8 @@ th {
                                 <p class="note"><b>Note:</b> In OS X Lion (on Mac), scrollbars are hidden by default and only shown when being used (even though "overflow:scroll" is set).</p>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-list" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-display-visibility" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-list" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-display-visibility" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         <!-- Right Sidebar Start-->

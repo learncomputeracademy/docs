@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Link | Learn Computer Academy
 permalink: css/css-link/
 ---
 <div class="loader">
@@ -110,8 +110,8 @@ a:hover, a:active {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-icons" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-list" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-icons" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-list" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

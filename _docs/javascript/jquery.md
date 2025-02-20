@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: jQuery | Learn Computer Academy
 permalink: javascript/jquery/
 ---
 <div class="loader">
@@ -30,7 +30,7 @@ permalink: javascript/jquery/
                                 </ul>
                                 <p>If you want to study these subjects first, find the tutorials on our <a href="/">Home page</a>.</p>
                                 <hr>
-                                <h2>What is jQuery?</h2>
+                                <h2>What is JQuery?</h2>
                                 <p>jQuery is a lightweight, "write less, do more", JavaScript library.</p>
                                 <p>The purpose of jQuery is to make it much easier to use JavaScript on your website.</p>
                                 <p>jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.</p>
@@ -46,7 +46,7 @@ permalink: javascript/jquery/
                                 </ul>
                                 <p><b>Tip:</b> In addition, jQuery has plugins for almost any task out there.</p>
                                 <hr>
-                                <h2>Why jQuery?</h2>
+                                <h2>Why JQuery?</h2>
                                 <p>There are lots of other JavaScript frameworks out there, but jQuery seems to be the most popular, and also the most extendable.</p>
                                 <p>Many of the biggest companies on the Web use jQuery, such as:</p>
                                 <ul>
@@ -59,8 +59,8 @@ permalink: javascript/jquery/
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="js-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="../css/bootstrap" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/js-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/bootstrap" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

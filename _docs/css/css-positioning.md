@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Position | Learn Computer Academy
 permalink: css/css-positioning/
 ---
 <div class="loader">
@@ -128,7 +128,7 @@ div.absolute {
                                 <p>An element can have a positive or negative stack order:</p>
                                 <div style="position:relative;padding:80px;box-shadow: 0 0 15px 0 rgba(0,0,0,.3);">
                                     <h1 style="position:absolute;left:35px;top:15px;z-index:2;color: #000;">This is a heading</h1>
-                                    <img style="position:absolute;left:30px;top:15px;z-index:1;" src="assets/img/cat-img.jpg" width="100" height="auto" class="rounded-circle">
+                                    <img style="position:absolute;left:30px;top:15px;z-index:1;" src="{{ site.baseurl }}/assets/img/cat-img.jpg" width="100" height="auto" class="rounded-circle">
                                     <p style="position:absolute;left:35px;top:65px;z-index:2;color: #000;">Because the image has a z-index of -1, it will be placed behind the text.</p>
                                 </div>
                                 <pre class="snippet"><code class="css">img {
@@ -188,8 +188,8 @@ div.absolute {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-max-width" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-overflow" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-max-width" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-overflow" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

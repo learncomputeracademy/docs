@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Padding | Learn Computer Academy
 permalink: css/css-padding/
 ---
 <div class="loader">
@@ -165,8 +165,8 @@ permalink: css/css-padding/
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-margin" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-dimension" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-margin" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-dimension" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Navbar | Learn Computer Academy
 permalink: css/css-navbar/
 ---
 <div class="loader">
@@ -170,8 +170,8 @@ li a {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-image-transparency" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-dropdowns" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-image-transparency" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-dropdowns" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

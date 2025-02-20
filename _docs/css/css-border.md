@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Border | Learn Computer Academy
 permalink: css/css-border/
 ---
 <div class="loader">
@@ -283,8 +283,8 @@ p.three {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-background" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-margin" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-background" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-margin" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Pseudo Class | Learn Computer Academy
 permalink: css/css-pseudo-classes/
 ---
 <div class="loader">
@@ -297,8 +297,8 @@ div:hover p {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-combinators" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-pseudo-elements" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-combinators" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-pseudo-elements" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

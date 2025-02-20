@@ -24,8 +24,8 @@ permalink: css/css-syllabus/
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="../html/html-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="../javascript/js-syllabus" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a> 
+                                <a href="/html/html-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/javascript/js-syllabus" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a> 
                             </div>
                             <!-- /.End of footer button -->
                         </div>

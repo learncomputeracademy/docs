@@ -74,9 +74,9 @@ permalink: design/color-theory/
      </div>
      <!-- /.Your content goes ends here -->
      <div class="footer-btn d-flex justify-content-between">
-      <a href="graphics-design/graphics-design-ui-exercise" class="btn">
+      <a href="/design/graphics-design-ui-exercise" class="btn">
        <i class="fas fa-arrow-circle-left"></i>Previous </a>
-      <a href="color-in-design" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
+      <a href="/design/color-in-design" class="btn">Next <i class="fas fa-arrow-circle-right"></i>
       </a>
      </div>
      <!-- /.End of footer button -->

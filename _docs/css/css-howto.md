@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS How To | Learn Computer Academy
 permalink: css/css-howto/
 ---
 <div class="loader">
@@ -106,8 +106,8 @@ h1 {
                             </div>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-syntax" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-colors" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-syntax" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-colors" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

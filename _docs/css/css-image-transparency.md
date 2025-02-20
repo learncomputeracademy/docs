@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: CSS Opacity | Learn Computer Academy
 permalink: css/css-image-transparency/
 ---
 <div class="loader">
@@ -190,8 +190,8 @@ img:hover {
                                 <p>First, we create a &lt;div> element (class="background") with a background image, and a border. Then we create another &lt;div> (class="transbox") inside the first &lt;div>. The &lt;div class="transbox"> have a background color, and a border - the div is transparent. Inside the transparent &lt;div>, we add some text inside a &lt;p> element.</p>
                             <!-- /.Your content ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="css-pseudo-elements" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="css-navbar" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/css/css-pseudo-elements" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/css/css-navbar" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         <!-- Right Sidebar Start-->
