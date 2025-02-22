@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Web Design | Learn Computer Academy
 permalink: design/web-design/
 ---
 <div class="loader">

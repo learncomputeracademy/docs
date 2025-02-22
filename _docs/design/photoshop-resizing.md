@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Photoshop Resizing | Learn Computer Academy
 permalink: design/photoshop-resizing/
 ---
 <div class="loader">

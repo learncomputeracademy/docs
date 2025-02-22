@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: HTML Iframes | Learn Computer Academy
 permalink: html/html-iframes/
 ---
 <div class="loader">

@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Aside Tag | Learn Computer Academy
 permalink: html/tag-aside/
 ---
 <div class="loader">

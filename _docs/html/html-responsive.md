@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: HTML Responsive | Learn Computer Academy
 permalink: html/html-responsive/
 ---
 <div class="loader">

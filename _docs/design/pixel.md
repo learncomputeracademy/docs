@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Pixel | Learn Computer Academy
 permalink: design/pixel/
 ---
 <div class="loader">

@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Graphics Design Visiting Card Exercise | Learn Computer Academy
 permalink: design/graphics-design-visiting-card-exercise/
 ---
 <div class="loader">

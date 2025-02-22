@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Vector Graphics | Learn Computer Academy
 permalink: design/vector-graphics/
 ---
 <div class="loader">

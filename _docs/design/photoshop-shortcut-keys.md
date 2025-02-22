@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Photoshop Shortcut Keys | Learn Computer Academy
 permalink: design/photoshop-shortcut-keys/
 ---
 <div class="loader">

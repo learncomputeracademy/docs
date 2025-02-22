@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Photoshop Toolbar | Learn Computer Academy
 permalink: design/photoshop-toolbar/
 ---
 <div class="loader">

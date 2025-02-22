@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Mark Tag | Learn Computer Academy
 permalink: html/tag-mark/
 ---
 <div class="loader">

@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Raster Graphics | Learn Computer Academy
 permalink: design/raster-graphics/
 ---
 <div class="loader">

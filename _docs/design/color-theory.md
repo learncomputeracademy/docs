@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Color Theory | Learn Computer Academy
 permalink: design/color-theory/
 ---
 <div class="loader">

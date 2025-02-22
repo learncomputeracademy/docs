@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Photoshop Alteration Tools | Learn Computer Academy
 permalink: design/photoshop-alteration-tools/
 ---
 <div class="loader">

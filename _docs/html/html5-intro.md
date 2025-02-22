@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: HTML5 Intro | Learn Computer Academy
 permalink: html/html5-intro/
 ---
 <div class="loader">

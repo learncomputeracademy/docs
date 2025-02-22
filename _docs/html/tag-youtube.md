@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Embed YouTube Iframe  | Learn Computer Academy
 permalink: html/tag-youtube/
 ---
 <div class="loader">

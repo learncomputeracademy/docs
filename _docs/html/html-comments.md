@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: HTML Comments | Learn Computer Academy
 permalink: html/html-comments/
 ---
 <div class="loader">

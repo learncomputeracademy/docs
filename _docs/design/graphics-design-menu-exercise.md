@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Graphics Design Menu Exercise | Learn Computer Academy
 permalink: design/graphics-design-menu-exercise/
 ---
 <div class="loader">

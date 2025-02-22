@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Graphics Design Flyer | Learn Computer Academy
 permalink: design/graphics-design-flyer/
 ---
 <div class="loader">

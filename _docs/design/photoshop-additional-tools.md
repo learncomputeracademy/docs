@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Photoshop Additional Tools | Learn Computer Academy
 permalink: design/photoshop-additional-tools/
 ---
 <div class="loader">

@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: HTML Form Input Types | Learn Computer Academy
 permalink: html/html-form-input-types/
 ---
 <div class="loader">

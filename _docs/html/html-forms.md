@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: HTML Forms | Learn Computer Academy
 permalink: html/html-forms/
 ---
 <div class="loader">

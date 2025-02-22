@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: HTML Syllabus | Learn Computer Academy
 permalink: html/html-syllabus/
 ---
 <div class="loader">

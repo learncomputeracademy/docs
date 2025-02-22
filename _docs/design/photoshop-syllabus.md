@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Photoshop Syllabus | Learn Computer Academy
 permalink: design/photoshop-syllabus/
 ---
 <div class="loader">

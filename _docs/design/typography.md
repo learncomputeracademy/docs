@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Typography | Learn Computer Academy
 permalink: design/typography/
 ---
 

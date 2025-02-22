@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: HTML Blocks | Learn Computer Academy
 permalink: html/html-blocks/
 ---
 <div class="loader">

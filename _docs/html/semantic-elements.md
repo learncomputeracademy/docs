@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Sementic Elements | Learn Computer Academy
 permalink: html/semantic-elements/
 ---
 <div class="loader">

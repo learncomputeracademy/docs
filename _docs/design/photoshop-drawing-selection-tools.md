@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Color in Design | Learn Computer Academy
+title: Photoshop Drawing Selection Tools | Learn Computer Academy
 permalink: design/photoshop-drawing-selection-tools/
 ---
 <div class="loader">
