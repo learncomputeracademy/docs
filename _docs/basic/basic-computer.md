@@ -335,6 +335,7 @@ permalink: basic/basic-computer/
                         <?php include '../includes/right-sidebar-innerpage.php'; ?>
                         <!-- Right-Sidebar End -->
                     </div>
+                    <!-- Footer Start -->
+                    <?php include '../includes/footer.php'; ?>
                 </div>
-<!-- Footer Start -->
-<?php include '../includes/footer.php'; ?>
+
