@@ -116,6 +116,104 @@ permalink: javascript/js-syllabus/
                                         </ul>
                                     </li>
                                 </ul>
+                                <h3>Chapter 8: JavaScript Date and Time</h3>
+                                <ul>
+                                    <li><code>Date</code> Object</li>
+                                    <li>Getting and Setting Date Values</li>
+                                    <li>Formatting Dates</li>
+                                    <li>Time Methods</li>
+                                </ul>
+                                <h3>Chapter 9: JavaScript Math</h3> 
+                                <ul>
+                                    <li>Math Object and Methods
+                                        <ul>
+                                            <li><code>Math.round()</code>, <code>Math.floor()</code>, <code>Math.ceil()</code></li>
+                                            <li><code>Math.random()</code>, <code>Math.max()</code>, <code>Math.min()</code></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <h3>Chapter 10: JavaScript Events</h3> 
+                                <ul>
+                                    <li>Introduction to Events</li>
+                                    <li>Event Handlers (onclick, onmouseover, etc.)</li>
+                                    <li>addEventListener()</li>
+                                    <li>Event Object (event.target, event.preventDefault())</li>
+                                </ul>
+                                <h3>Chapter 11: JavaScript DOM (Document Object Model)</h3> 
+                                <ul>
+                                    <li>What is the DOM?</li>
+                                    <li>DOM Tree Structure</li>
+                                    <li>Selecting Elements (<code>getElementById</code>, <code>querySelector</code>)</li>
+                                    <li>Manipulating Elements (<code>innerHTML</code>, <code>style</code>, <code>classList</code>)</li>
+                                    <li>Creating and Removing Elements</li>
+                                    <li>Traversing the DOM</li>
+                                </ul>
+                                <h3>Chapter 12: JavaScript BOM (Browser Object Model)</h3>
+                                <ul>
+                                    <li><code>window</code> Object</li>
+                                    <li><code>alert()</code>, <code>confirm()</code>, <code>prompt()</code></li>
+                                    <li><code>setTimeout()</code>, <code>setInterval()</code></li>
+                                    <li><code>navigator</code>, <code>screen</code>, <code>location</code>, <code>history</code></li>
+                                </ul>
+                                <h3>Chapter 13: JavaScript Forms</h3>
+                                <ul>
+                                    <li>Accessing Form Elements</li>
+                                    <li>Form Validation (Basic)</li>
+                                    <li>Preventing Default Behavior</li>
+                                    <li>Submitting Forms with JavaScript</li>
+                                </ul>
+                                <h3>Chapter 14: JavaScript Error Handling</h3>
+                                <ul>
+                                    <li><code>try...catch</code></li>
+                                    <li><code>finally</code> Block</li>
+                                    <li><code>throw</code> Statement</li>
+                                    <li>Custom Error Messages</li>
+                                </ul>
+                                <h3>Chapter 15: JavaScript ES6 and Beyond</h3>
+                                <ul>
+                                    <li>let, const</li>
+                                    <li>Template Literals</li>
+                                    <li>Arrow Functions</li>
+                                    <li>Destructuring</li>
+                                    <li>Spread & Rest Operators</li>
+                                    <li>Default Parameters</li>
+                                    <li>Modules (import/export)</li>
+                                    <li>Classes and Inheritance</li>
+                                </ul>
+                                <h3>Chapter 16: JavaScript JSON</h3>
+                                <ul>
+                                    <li>What is JSON?</li>
+                                    <li>Converting JavaScript to JSON and vice versa</li>
+                                    <li><code>JSON.stringify()</code> and <code>JSON.parse()</code></li>
+                                    <li>Working with APIs (Basic)</li>
+                                </ul>
+                                <h3>Chapter 17: JavaScript Promises & Async/Await</h3>
+                                <ul>
+                                    <li>Introduction to Promises</li>
+                                    <li><code>.then()</code> and <code>.catch()</code></li>
+                                    <li><code>async</code> and <code>await</code></li>
+                                    <li>Handling Multiple Promises</li>
+                                </ul>
+                                <h3>Chapter 18: JavaScript Fetch API</h3>
+                                <ul>
+                                    <li>What is Fetch?</li>
+                                    <li>GET and POST Requests</li>
+                                    <li>Working with JSON</li>
+                                    <li>Error Handling in Fetch</li>
+                                </ul>
+                                <h3>Chapter 19: JavaScript Storage</h3>
+                                <ul>
+                                    <li>Local Storage</li>
+                                    <li>Session Storage</li>
+                                    <li>Using JSON with Storage</li>
+                                </ul>
+                                <h3>Chapter 20: JavaScript Projects and Practice</h3>
+                                <ul>
+                                    <li>Mini Projects (e.g., To-Do App, Calculator)</li>
+                                    <li>DOM Practice Exercises</li>
+                                    <li>API Integration Practice</li>
+                                    <li>Form Validation Project</li>
+                                </ul>   
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
