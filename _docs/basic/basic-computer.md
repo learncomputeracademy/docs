@@ -29,6 +29,8 @@ permalink: basic/basic-computer/
                                     <li><a href="#chp12">Internet Basics</a></li>
                                     <li><a href="#chp13">Cyber Safety & Best Practices</a></li>
                                     <li><a href="#chp14">Practical Computer Applications</a></li>
+                                    <li><a href="#chp15">Quantum Computers</a></li>
+                                    <li><a href="#chp16">Artificial Intelligence: Use Cases and Importance</a></li>
                                 </ul>
                                 <hr>
                                 <h2 id="chp1">1. Introduction to Computers</h2>
@@ -68,12 +70,77 @@ permalink: basic/basic-computer/
                                 <h2 id="chp3">3. Generations of Computers</h2>
                                 <p>Computer evolution is categorized into generations:</p>
                                 <ul>
-                                    <li><strong>First Generation (1940–1956):</strong> Vacuum tubes, slow, large (e.g., ENIAC)</li>
-                                    <li><strong>Second Generation (1956–1963):</strong> Transistors, smaller, faster (e.g., IBM 1401)</li>
-                                    <li><strong>Third Generation (1964–1971):</strong> Integrated Circuits (ICs), more reliable</li>
-                                    <li><strong>Fourth Generation (1971–Present):</strong> Microprocessors, personal computers</li>
+                                    <li><strong>First Generation (1940-1956):</strong> Vacuum tubes, slow, large (e.g., ENIAC, EDVAC, UNIVAC, IBM-701, and IBM-650)</li>
+                                    <li><strong>Second Generation (1956-1963):</strong> Transistors, smaller, faster (e.g., IBM 1401)</li>
+                                    <li><strong>Third Generation (1964-1971):</strong> Integrated Circuits (ICs), more reliable</li>
+                                    <li><strong>Fourth Generation (1971-Present):</strong> Microprocessors, personal computers</li>
                                     <li><strong>Fifth Generation (Present & Beyond):</strong> Artificial Intelligence, robotics</li>
                                 </ul>
+                                <h4>Computer evolution is categorized into generations:</h4>
+                                <h5>First Generation (1940-1956)</h5>
+                                <h6>Key Characteristics:</h6>
+                                <ul>
+                                    <li>Used vacuum tubes</li>
+                                    <li>Very large in size</li>
+                                    <li>Consumed a lot of electricity</li>
+                                    <li>Produced a lot of heat</li>
+                                    <li>Programming in machine language</li>
+                                </ul>
+                                <h6>Examples:</h6>
+                                <p><strong>ENIAC:</strong></p>
+                                <p>The Electronic Numerical Integrator and Computer, one of the earliest general-purpose electronic computers, used 18,000 vacuum tubes.</p>
+                                <p><strong>EDVAC:</strong></p>
+                                <p>The Electronic Discrete Variable Automatic Computer was a stored-program computer designed by John von Neumann. </p>
+                                <p><strong>UNIVAC:</strong></p>
+                                <p>The Universal Automatic Computer was one of the first mass-produced computers. </p>
+                                <p><strong>IBM-701:</strong></p>
+                                <p>IBM's first commercially available computer, used for scientific and military applications.</p>
+                                <p><strong>IBM-650:</strong></p>
+                                <p>One of the first mass-produced computers, used for scientific and business calculations.</p>
+                                <h5>Second Generation (1956-1963)</h5>
+                                <h6>Key Characteristics:</h6>
+                                <ul>
+                                    <li>Used transistors instead of vacuum tubes</li>
+                                    <li>Smaller, faster, and more reliable</li>
+                                    <li>Less heat production</li>
+                                    <li>Programming in assembly language</li>
+                                </ul>
+                                <h6>Examples:</h6>
+                                <p>IBM 1401</p>
+                                <p>CDC 1604</p>
+                                <h5>Third Generation (1964-1971)</h5>
+                                <h6>Key Characteristics:</h6>
+                                <ul>
+                                    <li>Used Integrated Circuits (ICs)</li>
+                                    <li>Smaller and more efficient</li>
+                                    <li>Lower cost</li>
+                                    <li>Used high-level programming languages</li>
+                                </ul>
+                                <h6>Examples:</h6>
+                                <p>IBM System/360</p>
+                                <p>PDP-8</p>
+                                <h5>Fourth Generation (1971-Present)</h5>
+                                <h6>Key Characteristics:</h6>
+                                <ul>
+                                    <li>Used microprocessors</li>
+                                    <li>Introduction of personal computers (PCs)</li>
+                                    <li>Very compact and fast</li>
+                                    <li>Used GUI-based operating systems</li>
+                                </ul>
+                                <h6>Examples:</h6>
+                                <p>IBM PC</p>
+                                <p>Apple Macintosh</p>
+                                <h5>Fifth Generation (Present & Beyond)</h5>
+                                <h6>Key Characteristics:</h6>
+                                <ul>
+                                    <li>Based on Artificial Intelligence (AI)</li>
+                                    <li>Voice recognition and natural language processing</li>
+                                    <li>Expert systems and robotics</li>
+                                    <li>Focus on parallel processing</li>
+                                </ul>
+                                <h6>Examples:</h6>  
+                                <p>AI-based systems like IBM Watson</p>
+                                <p>Robots, smart assistants (Alexa, Siri)</p>
                                 <hr>
                                 <h2 id="chp4">4. Computer Memory</h2>
                                 <p>Memory stores data temporarily or permanently.</p>
@@ -199,6 +266,65 @@ permalink: basic/basic-computer/
                                     <li>Paint & Notepad</li>
                                     <li>Internet Browsing & Email Setup</li>
                                 </ul>
+                                <h2 id="chp15">Quantum Computers</h2>
+                                <p>Quantum computers use principles of quantum mechanics for data processing.</p>
+                                <h4>Key Concepts:</h4>
+                                <ul>
+                                    <li><strong>Qubit:</strong> Basic unit of quantum information; can be 0, 1, or both simultaneously</li>    
+                                    <li><strong>Superposition:</strong> A qubit can represent multiple states at once</li>
+                                    <li><strong>Entanglement:</strong> Qubits can be linked so the state of one affects the other</li>
+                                    <li><strong>Quantum Speed-up:</strong> Capable of solving complex problems faster than classical computers</li>
+                                </ul>
+                                <h4>Applications:</h4>
+                                <ul>
+                                    <li>Drug discovery</li>
+                                    <li>Cryptography</li>
+                                    <li>Weather forecasting</li>
+                                    <li>Financial modeling</li>
+                                </ul>
+                                <h4>Example Quantum Systems:</h4>
+                                <ul>
+                                    <li>IBM Quantum</li>
+                                    <li>Google Sycamore</li>
+                                    <li>D-Wave Systems</li>
+                                </ul>
+                                <h4>Limitations (Current):</h4>
+                                <ul>
+                                    <li>Very expensive</li>
+                                    <li>Sensitive to noise</li>
+                                    <li>Require ultra-low temperatures</li>
+                                </ul>
+                                <p>Quantum computing is still in its early stages but has the potential to revolutionize technology and computation.</p>
+                                <h2 id="chp16">Artificial Intelligence: Use Cases and Importance</h2>  
+                                <p>Artificial Intelligence (AI) enables machines to mimic human intelligence to perform tasks.</p> 
+                                <h4>Importance of AI:</h4>
+                                <ul>
+                                    <li>Enhances productivity through automation</li>
+                                    <li>Improves decision-making with data analysis</li>
+                                    <li>Enables smart and interactive user experiences</li>
+                                </ul>  
+                                <h4>Key Use Cases:</h4>
+                                <ul>
+                                    <li><strong>Natural Language Processing (NLP):</strong> Chatbots, voice assistants</li>
+                                    <li><strong>Image Recognition:</strong> Medical imaging, security</li>
+                                    <li><strong>Recommendation Systems:</strong> Shopping, streaming platforms</li>
+                                    <li><strong>Autonomous Vehicles:</strong> Self-driving technology</li>
+                                    <li><strong>Predictive Analytics:</strong> Business forecasting, stock analysis</li>
+                                </ul>
+                                <h4>Popular AI Tools/Platforms:</h4>
+                                <ul>
+                                    <li><strong><a href="https://chatgpt.com/" target="_blank">ChatGPT (by OpenAI):</a></strong> Conversational AI, education, content writing, coding help</li>
+                                    <li><strong><a href="https://grok.com/?referrer=website" target="_blank">Grok (by xAI):</a></strong> AI chatbot integrated with X (Twitter), personalized responses</li>
+                                    <li><strong><a href="https://gemini.google.com/app?hl=en-IN" target="_blank">Gemini (by Google):</a></strong> Multimodal AI for productivity, content generation</li>
+                                    <li><strong><a href="https://chat.deepseek.com/" target="_blank">DeepSeek:</a></strong> Search-enhanced AI with programming and reasoning capabilities</li>
+                                </ul>
+                                <h4>Ethical Considerations:</h4>
+                                <ul>
+                                    <li>Data privacy</li>
+                                    <li>Job displacement</li>
+                                    <li>Bias in AI algorithms</li>
+                                </ul>
+                                <p>AI is transforming all sectors, from education and healthcare to business and entertainment, making it essential knowledge for future readiness.</p>   
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
