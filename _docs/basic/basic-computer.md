@@ -12,25 +12,25 @@ permalink: basic/basic-computer/
                         <div class="col-md-9 content">
                             <!-- Your content goes started here -->
                             <div class="doc-content">
-                                <h2>Basic computer</h2>
+                                <h1>Basic computer</h1>
                                 <h4>📘 Contents</h4>
                                 <ol>
-                                    <li><a href="#chp1">Introduction to Computers</a></li>
-                                    <li><a href="#chp2">Classification of Computers</a></li>
-                                    <li><a href="#chp3">Generations of Computers</a></li>
-                                    <li><a href="#chp4">Computer Memory</a></li>
-                                    <li><a href="#chp5">Number System</a></li>
-                                    <li><a href="#chp6">Computer Hardware</a></li>
-                                    <li><a href="#chp7">Computer Software</a></li>
-                                    <li><a href="#chp8">Input & Output Devices</a></li>
-                                    <li><a href="#chp9">Storage Devices</a></li>
-                                    <li><a href="#chp10">Operating System Basics</a></li>
-                                    <li><a href="#chp11">Introduction to Computer Networking</a></li>
-                                    <li><a href="#chp12">Internet Basics</a></li>
-                                    <li><a href="#chp13">Cyber Safety & Best Practices</a></li>
-                                    <li><a href="#chp14">Practical Computer Applications</a></li>
-                                    <li><a href="#chp15">Quantum Computers</a></li>
-                                    <li><a href="#chp16">Artificial Intelligence: Use Cases and Importance</a></li>
+                                    <li><a href="#chp1">💡 Introduction to Computers</a></li>
+                                    <li><a href="#chp2">🧩 Classification of Computers</a></li>
+                                    <li><a href="#chp3">📚 Generations of Computers</a></li>
+                                    <li><a href="#chp4">🧠 Computer Memory</a></li>
+                                    <li><a href="#chp5">🔢 Number System</a></li>
+                                    <li><a href="#chp6">🛠️ Computer Hardware</a></li>
+                                    <li><a href="#chp7">📦 Computer Software</a></li>
+                                    <li><a href="#chp8">⌨️ Input & Output Devices</a></li>
+                                    <li><a href="#chp9">💾 Storage Devices</a></li>
+                                    <li><a href="#chp10">⚙️ Operating System Basics</a></li>
+                                    <li><a href="#chp11">🌐 Introduction to Computer Networking</a></li>
+                                    <li><a href="#chp12">🌍 Internet Basics</a></li>
+                                    <li><a href="#chp13">🔐 Cyber Safety & Best Practices</a></li>
+                                    <li><a href="#chp14">🖥️ Practical Computer Applications</a></li>
+                                    <li><a href="#chp15">🔮 Quantum Computers</a></li>
+                                    <li><a href="#chp16">🤖 Artificial Intelligence: Use Cases and Importance</a></li>
                                 </ol>
                                 <hr>
                                 <h2 id="chp1">1. Introduction to Computers</h2>
