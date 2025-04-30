@@ -72,6 +72,21 @@ permalink: basic/basic-computer/
                                     <li><strong>Fourth Generation (1971–Present):</strong> Microprocessors, personal computers</li>
                                     <li><strong>Fifth Generation (Present & Beyond):</strong> Artificial Intelligence, robotics</li>
                                 </ul>
+                                <h2>4. Computer Memory</h2>
+                                <p>Memory stores data temporarily or permanently.</p>
+                                <h4>Primary Memory:</h4>
+RAM (Random Access Memory): Volatile, temporary storage
+
+
+ROM (Read Only Memory): Non-volatile, permanent instructions
+
+
+Secondary Storage:
+Hard Disk, SSD, USB Drive, Optical Discs
+
+
+Cache Memory: Fast memory between CPU and RAM
+Registers: Smallest memory in the CPU used during processing
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
