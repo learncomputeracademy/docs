@@ -266,6 +266,7 @@ permalink: basic/basic-computer/
                                     <li>Paint & Notepad</li>
                                     <li>Internet Browsing & Email Setup</li>
                                 </ul>
+                                <hr>
                                 <h2 id="chp15">Quantum Computers</h2>
                                 <p>Quantum computers use principles of quantum mechanics for data processing.</p>
                                 <h4>Key Concepts:</h4>
@@ -295,6 +296,7 @@ permalink: basic/basic-computer/
                                     <li>Require ultra-low temperatures</li>
                                 </ul>
                                 <p>Quantum computing is still in its early stages but has the potential to revolutionize technology and computation.</p>
+                                <hr>
                                 <h2 id="chp16">Artificial Intelligence: Use Cases and Importance</h2>  
                                 <p>Artificial Intelligence (AI) enables machines to mimic human intelligence to perform tasks.</p> 
                                 <h4>Importance of AI:</h4>
