@@ -87,16 +87,11 @@ permalink: basic/basic-computer/
                                     <li>Programming in machine language</li>
                                 </ul>
                                 <h6>Examples:</h6>
-                                <p><strong>ENIAC:</strong></p>
-                                <p>The Electronic Numerical Integrator and Computer, one of the earliest general-purpose electronic computers, used 18,000 vacuum tubes.</p>
-                                <p><strong>EDVAC:</strong></p>
-                                <p>The Electronic Discrete Variable Automatic Computer was a stored-program computer designed by John von Neumann. </p>
-                                <p><strong>UNIVAC:</strong></p>
-                                <p>The Universal Automatic Computer was one of the first mass-produced computers. </p>
-                                <p><strong>IBM-701:</strong></p>
-                                <p>IBM's first commercially available computer, used for scientific and military applications.</p>
-                                <p><strong>IBM-650:</strong></p>
-                                <p>One of the first mass-produced computers, used for scientific and business calculations.</p>
+                                <p><strong>ENIAC:</strong> The Electronic Numerical Integrator and Computer, one of the earliest general-purpose electronic computers, used 18,000 vacuum tubes.</p>
+                                <p><strong>EDVAC:</strong> The Electronic Discrete Variable Automatic Computer was a stored-program computer designed by John von Neumann.</p>
+                                <p><strong>UNIVAC:</strong> The Universal Automatic Computer was one of the first mass-produced computers.</p>
+                                <p><strong>IBM-701:</strong> IBM's first commercially available computer, used for scientific and military applications.</p>
+                                <p><strong>IBM-650:</strong> One of the first mass-produced computers, used for scientific and business calculations.</p>
                                 <h5>Second Generation (1956-1963)</h5>
                                 <h6>Key Characteristics:</h6>
                                 <ul>
