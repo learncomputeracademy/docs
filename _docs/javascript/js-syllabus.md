@@ -34,7 +34,7 @@ permalink: javascript/js-syllabus/
                                     <li><b>JavaScript</b> to program the behavior of web pages</li>
                                 </ol>
                                 <p>Web pages are not the only place where JavaScript is used. Many desktop and server programs use JavaScript. Node.js is the best known. Some databases, like MongoDB and CouchDB, also use JavaScript as their programming language.</p>
-                                <p class="note"><b>NOTE:</b> We recommend reading <a href="https://www.w3schools.com/js/default.asp">this tutorial</a>, in the sequence listed in the left menu. If you try all the examples, you will learn a lot about JavaScript, in a very short time!</p>
+                                <hr>
                                 <h2>JavaScript Documentation</h2>
                                 <h3>Chapter 1: Introduction to JavaScript</h3>
                                 <ul>
@@ -213,7 +213,8 @@ permalink: javascript/js-syllabus/
                                     <li>DOM Practice Exercises</li>
                                     <li>API Integration Practice</li>
                                     <li>Form Validation Project</li>
-                                </ul>   
+                                </ul> 
+                                <p class="note"><b>NOTE:</b> We recommend reading <a href="https://www.w3schools.com/js/default.asp">this tutorial</a>, in the sequence listed in the left menu. If you try all the examples, you will learn a lot about JavaScript, in a very short time!</p>  
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
