@@ -171,7 +171,7 @@ permalink: javascript/js-syllabus/
                                 </ul>
                                 <h3>Chapter 15: JavaScript ES6 and Beyond</h3>
                                 <ul>
-                                    <li>let, const</li>
+                                    <li><code>let</code>, <code>const</code></li>
                                     <li>Template Literals</li>
                                     <li>Arrow Functions</li>
                                     <li>Destructuring</li>
