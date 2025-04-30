@@ -14,15 +14,16 @@
     .technology-img:hover a img{ transform: scale(1.2); } 
 </style>
 
-<!-- Header Start -->
-{% include nav.html %}
+
 
 <!-- Main content -->
 <main>
     <div class="loader">
-    {{ content }}
-    <!-- Footer -->
-    {% include footer.html %}
+        <!-- Header Start -->
+        {% include nav.html %}
+        {{ content }}
+        <!-- Footer -->
+        {% include footer.html %}
     </div>
 </main>
 
