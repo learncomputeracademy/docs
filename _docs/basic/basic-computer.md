@@ -192,7 +192,8 @@ permalink: basic/basic-computer/
                                 <p><strong>Output Devices:</strong> Used to get data from the computer</p>  
                                 <ul>
                                     <li>Monitor, Printer, Speaker, Projector</li>
-                                </ul>   
+                                </ul>  
+                                <img src="{{ site.baseurl }}/assets/img/block-diagram-of-computer.jpg" class="img-fluid" /> 
                                 <hr>
                                 <h2 id="chp9">9. Storage Devices</h2>
                                 <p>Storage devices hold data.</p>
