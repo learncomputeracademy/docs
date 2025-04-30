@@ -75,18 +75,117 @@ permalink: basic/basic-computer/
                                 <h2>4. Computer Memory</h2>
                                 <p>Memory stores data temporarily or permanently.</p>
                                 <h4>Primary Memory:</h4>
-RAM (Random Access Memory): Volatile, temporary storage
-
-
-ROM (Read Only Memory): Non-volatile, permanent instructions
-
-
-Secondary Storage:
-Hard Disk, SSD, USB Drive, Optical Discs
-
-
-Cache Memory: Fast memory between CPU and RAM
-Registers: Smallest memory in the CPU used during processing
+                                <ul>
+                                    <li><strong>RAM (Random Access Memory):</strong> Volatile, temporary storage</li>
+                                    <li><strong>ROM (Read Only Memory):</strong> Non-volatile, permanent instructions</li>
+                                </ul>
+                                <h4>Secondary Storage:</h4>
+                                <ul>
+                                    <li>Hard Disk, SSD, USB Drive, Optical Discs</li>
+                                </ul>
+                                <ul>
+                                    <li><strong>Cache Memory:</strong> Fast memory between CPU and RAM</li>
+                                </ul>
+                                <ul>
+                                    <li><strong>Registers:</strong> Smallest memory in the CPU used during processing</li>
+                                </ul>
+                                <h2>5. Number System</h2>
+                                <p>Computers use various number systems to represent data.</p>
+                                <ul>
+                                    <li><strong>Decimal (Base 10):</strong> 0-9</li>
+                                    <li><strong>Binary (Base 2):</strong> 0 and 1</li>
+                                    <li><strong>Octal (Base 8):</strong> 0-7</li>
+                                    <li><strong>Hexadecimal (Base 16):</strong> 0-9 and A-F</li>
+                                </ul>
+                                <p><strong>Conversions:</strong> Binary to Decimal, Decimal to Binary, etc.</p> 
+                                <h2>6. Computer Hardware</h2>
+                                <p>Hardware includes all physical components:</p>
+                                <ul>
+                                    <li><strong>Input Devices:</strong> Keyboard, Mouse, Scanner</li>
+                                    <li><strong>Output Devices:</strong> Monitor, Printer</li>
+                                    <li><strong>CPU (Central Processing Unit):</strong> ALU + CU + Registers</li>
+                                    <li><strong>Motherboard:</strong> Connects all components</li>
+                                    <li><strong>Memory Units:</strong> RAM, ROM</li>
+                                </ul>
+                                <h2>7. Computer Software</h2>
+                                <p>Software is a set of instructions.</p>
+                                <h4>Types:</h4>
+                                <ul>
+                                    <li><strong>System Software:</strong> Operating system, device drivers</li>
+                                    <li><strong>Application Software:</strong> MS Office, Browsers</li>
+                                    <li><strong>Programming Software:</strong> IDEs, Compilers</li>
+                                </ul>
+                                <h2>8. Input & Output Devices</h2>
+                                <p><strong>Input Devices:</strong> Used to give data to the computer</p>
+                                <ul>
+                                    <li>Keyboard, Mouse, Joystick, Scanner, Webcam</li>
+                                </ul>
+                                <p><strong>Output Devices:</strong> Used to get data from the computer</p>  
+                                <ul>
+                                    <li>Monitor, Printer, Speaker, Projector</li>
+                                </ul>   
+                                <h2>9. Storage Devices</h2>
+                                <p>Storage devices hold data.</p>
+                                <ul>
+                                    <li><strong>Magnetic Storage:</strong> Hard Disk, Floppy</li>
+                                    <li><strong>Optical Storage:</strong> CD, DVD</li>
+                                    <li><strong>Solid State Storage:</strong> SSD, USB Drive</li>
+                                    <li><strong>Cloud Storage:</strong> Google Drive, Dropbox</li>
+                                </ul>
+                                <h2>10. Operating System Basics</h2>
+                                <p>An operating system (OS) is system software that manages computer hardware, software, and resources.</p>
+                                <h4>Functions:</h4>
+                                <ul>
+                                    <li>File management</li>
+                                    <li>Process management</li>
+                                    <li>Memory management</li>
+                                    <li>Device control</li>
+                                </ul>
+                                <h4>Types:</h4>  
+                                <ul>
+                                    <li>Single-user, Multi-user</li>
+                                    <li>GUI (Graphical), CLI (Command Line)</li>
+                                    <li>Examples: Windows, Linux, macOS, Android</li>
+                                </ul> 
+                                <h2>11. Computer Networking</h2>
+                                <p>Networking connects computers to share data.</p>
+                                <h4>Types:</h4>
+                                <ul>
+                                    <li><strong>LAN (Local Area Network):</strong> Small areas like office</li>
+                                    <li><strong>MAN (Metropolitan Area Network):</strong> City-wide</li>
+                                    <li><strong>WAN (Wide Area Network):</strong> Large scale like the internet</li>
+                                </ul>
+                                <p><strong>Devices:</strong> Router, Switch, Hub, Modem</p>  
+                                <h2>12. Internet Basics</h2>
+                                <p>The internet is a global network of computers.</p>
+                                <h4>Terms:</h4>
+                                <ul>
+                                    <li><strong>WWW (World Wide Web):</strong> Collection of web pages</li>
+                                    <li><strong>Browser:</strong> Software to access web (Chrome, Firefox)</li>
+                                    <li><strong>URL:</strong> Address of a website</li>
+                                    <li><strong>Email:</strong> Electronic messaging</li>
+                                    <li><strong>Cloud Computing:</strong> Using remote servers for storage and software</li>
+                                </ul>
+                                <h2>13. Cyber Safety & Best Practices</h2>
+                                <p>Cyber safety involves protecting yourself online.</p>
+                                <h4>Tips:</h4>
+                                <ul>
+                                    <li>Use strong passwords</li>
+                                    <li>Avoid clicking unknown links</li>
+                                    <li>Install antivirus software</li>
+                                    <li>Use secure websites (HTTPS)</li>
+                                    <li>Be aware of phishing and scams</li>
+                                </ul>
+                                <h2>14. Practical Computer Applications</h2>
+                                <p>Hands-on practice is essential:</p>
+                                <ul>
+                                    <li>Windows OS navigation</li>
+                                    <li>MS Word: Typing, formatting</li>
+                                    <li>MS Excel: Tables, charts, formulas</li>
+                                    <li>MS PowerPoint: Slides, transitions</li>
+                                    <li>Paint & Notepad</li>
+                                    <li>Internet Browsing & Email Setup</li>
+                                </ul>
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
