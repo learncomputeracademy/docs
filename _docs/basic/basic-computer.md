@@ -14,7 +14,7 @@ permalink: basic/basic-computer/
                             <div class="doc-content">
                                 <h2>Basic computer</h2>
                                 <h4>📘 Contents</h4>
-                                <ul>
+                                <ol>
                                     <li><a href="#chp1">Introduction to Computers</a></li>
                                     <li><a href="#chp2">Classification of Computers</a></li>
                                     <li><a href="#chp3">Generations of Computers</a></li>
@@ -31,7 +31,7 @@ permalink: basic/basic-computer/
                                     <li><a href="#chp14">Practical Computer Applications</a></li>
                                     <li><a href="#chp15">Quantum Computers</a></li>
                                     <li><a href="#chp16">Artificial Intelligence: Use Cases and Importance</a></li>
-                                </ul>
+                                </ol>
                                 <hr>
                                 <h2 id="chp1">1. Introduction to Computers</h2>
                                 <p>A computer is an electronic device that accepts input, processes data, stores information, and provides output in a useful format. It performs tasks with speed, accuracy, and automation. Basic components of a computer system include hardware (physical parts), software (programs), data, and users.</p>
@@ -267,7 +267,7 @@ permalink: basic/basic-computer/
                                     <li>Internet Browsing & Email Setup</li>
                                 </ul>
                                 <hr>
-                                <h2 id="chp15">Quantum Computers</h2>
+                                <h2 id="chp15">15. Quantum Computers</h2>
                                 <p>Quantum computers use principles of quantum mechanics for data processing.</p>
                                 <h4>Key Concepts:</h4>
                                 <ul>
@@ -297,7 +297,7 @@ permalink: basic/basic-computer/
                                 </ul>
                                 <p>Quantum computing is still in its early stages but has the potential to revolutionize technology and computation.</p>
                                 <hr>
-                                <h2 id="chp16">Artificial Intelligence: Use Cases and Importance</h2>  
+                                <h2 id="chp16">16. Artificial Intelligence: Use Cases and Importance</h2>  
                                 <p>Artificial Intelligence (AI) enables machines to mimic human intelligence to perform tasks.</p> 
                                 <h4>Importance of AI:</h4>
                                 <ul>
