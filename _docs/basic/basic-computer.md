@@ -15,23 +15,23 @@ permalink: basic/basic-computer/
                                 <h2>Basic computer</h2>
                                 <h4>📘 Contents</h4>
                                 <ul>
-                                    <li><a href="#">Introduction to Computers</a></li>
-                                    <li><a href="#">Classification of Computers</a></li>
-                                    <li><a href="#">Generations of Computers</a></li>
-                                    <li><a href="#">Computer Memory</a></li>
-                                    <li><a href="#">Number System</a></li>
-                                    <li><a href="#">Computer Hardware</a></li>
-                                    <li><a href="#">Computer Software</a></li>
-                                    <li><a href="#">Input & Output Devices</a></li>
-                                    <li><a href="#">Storage Devices</a></li>
-                                    <li><a href="#">Operating System Basics</a></li>
-                                    <li><a href="#">Introduction to Computer Networking</a></li>
-                                    <li><a href="#">Internet Basics</a></li>
-                                    <li><a href="#">Cyber Safety & Best Practices</a></li>
-                                    <li><a href="#">Practical Computer Applications</a></li>
-                                    <li><a href="#">Revision & Mini Project</a></li>
+                                    <li><a href="#chp1">Introduction to Computers</a></li>
+                                    <li><a href="#chp2">Classification of Computers</a></li>
+                                    <li><a href="#chp3">Generations of Computers</a></li>
+                                    <li><a href="#chp4">Computer Memory</a></li>
+                                    <li><a href="#chp5">Number System</a></li>
+                                    <li><a href="#chp6">Computer Hardware</a></li>
+                                    <li><a href="#chp7">Computer Software</a></li>
+                                    <li><a href="#chp8">Input & Output Devices</a></li>
+                                    <li><a href="#chp9">Storage Devices</a></li>
+                                    <li><a href="#chp10">Operating System Basics</a></li>
+                                    <li><a href="#chp11">Introduction to Computer Networking</a></li>
+                                    <li><a href="#chp12">Internet Basics</a></li>
+                                    <li><a href="#chp13">Cyber Safety & Best Practices</a></li>
+                                    <li><a href="#chp14">Practical Computer Applications</a></li>
                                 </ul>
-                                <h2>1. Introduction to Computers</h2>
+                                <hr>
+                                <h2 id="chp1">1. Introduction to Computers</h2>
                                 <p>A computer is an electronic device that accepts input, processes data, stores information, and provides output in a useful format. It performs tasks with speed, accuracy, and automation. Basic components of a computer system include hardware (physical parts), software (programs), data, and users.</p>
                                 <h4>Key Characteristics:</h4>
                                 <ul>
@@ -43,7 +43,8 @@ permalink: basic/basic-computer/
                                 </ul>
                                 <h4>Applications:</h4>    
                                 <p>Education, Business, Healthcare, Banking, Government, Entertainment</p>
-                                <h2>2. Classification of Computers</h2>   
+                                <hr>
+                                <h2 id="chp2">2. Classification of Computers</h2>   
                                 <p>Computers can be classified based on size, purpose, and type:</p>
                                 <h4>By Size:</h4>
                                 <ul>
@@ -63,7 +64,8 @@ permalink: basic/basic-computer/
                                     <li><strong>Digital:</strong> Works with binary data</li>
                                     <li><strong>Hybrid:</strong> Combines analog and digital features</li>
                                 </ul>
-                                <h2>3. Generations of Computers</h2>
+                                <hr>
+                                <h2 id="chp3">3. Generations of Computers</h2>
                                 <p>Computer evolution is categorized into generations:</p>
                                 <ul>
                                     <li><strong>First Generation (1940–1956):</strong> Vacuum tubes, slow, large (e.g., ENIAC)</li>
@@ -72,7 +74,8 @@ permalink: basic/basic-computer/
                                     <li><strong>Fourth Generation (1971–Present):</strong> Microprocessors, personal computers</li>
                                     <li><strong>Fifth Generation (Present & Beyond):</strong> Artificial Intelligence, robotics</li>
                                 </ul>
-                                <h2>4. Computer Memory</h2>
+                                <hr>
+                                <h2 id="chp4">4. Computer Memory</h2>
                                 <p>Memory stores data temporarily or permanently.</p>
                                 <h4>Primary Memory:</h4>
                                 <ul>
@@ -89,7 +92,8 @@ permalink: basic/basic-computer/
                                 <ul>
                                     <li><strong>Registers:</strong> Smallest memory in the CPU used during processing</li>
                                 </ul>
-                                <h2>5. Number System</h2>
+                                <hr>
+                                <h2 id="chp5">5. Number System</h2>
                                 <p>Computers use various number systems to represent data.</p>
                                 <ul>
                                     <li><strong>Decimal (Base 10):</strong> 0-9</li>
@@ -98,7 +102,8 @@ permalink: basic/basic-computer/
                                     <li><strong>Hexadecimal (Base 16):</strong> 0-9 and A-F</li>
                                 </ul>
                                 <p><strong>Conversions:</strong> Binary to Decimal, Decimal to Binary, etc.</p> 
-                                <h2>6. Computer Hardware</h2>
+                                <hr>
+                                <h2 id="chp6">6. Computer Hardware</h2>
                                 <p>Hardware includes all physical components:</p>
                                 <ul>
                                     <li><strong>Input Devices:</strong> Keyboard, Mouse, Scanner</li>
@@ -107,7 +112,8 @@ permalink: basic/basic-computer/
                                     <li><strong>Motherboard:</strong> Connects all components</li>
                                     <li><strong>Memory Units:</strong> RAM, ROM</li>
                                 </ul>
-                                <h2>7. Computer Software</h2>
+                                <hr>
+                                <h2 id="chp7">7. Computer Software</h2>
                                 <p>Software is a set of instructions.</p>
                                 <h4>Types:</h4>
                                 <ul>
@@ -115,7 +121,8 @@ permalink: basic/basic-computer/
                                     <li><strong>Application Software:</strong> MS Office, Browsers</li>
                                     <li><strong>Programming Software:</strong> IDEs, Compilers</li>
                                 </ul>
-                                <h2>8. Input & Output Devices</h2>
+                                <hr>
+                                <h2 id="chp8">8. Input & Output Devices</h2>
                                 <p><strong>Input Devices:</strong> Used to give data to the computer</p>
                                 <ul>
                                     <li>Keyboard, Mouse, Joystick, Scanner, Webcam</li>
@@ -124,7 +131,8 @@ permalink: basic/basic-computer/
                                 <ul>
                                     <li>Monitor, Printer, Speaker, Projector</li>
                                 </ul>   
-                                <h2>9. Storage Devices</h2>
+                                <hr>
+                                <h2 id="chp9">9. Storage Devices</h2>
                                 <p>Storage devices hold data.</p>
                                 <ul>
                                     <li><strong>Magnetic Storage:</strong> Hard Disk, Floppy</li>
@@ -132,7 +140,8 @@ permalink: basic/basic-computer/
                                     <li><strong>Solid State Storage:</strong> SSD, USB Drive</li>
                                     <li><strong>Cloud Storage:</strong> Google Drive, Dropbox</li>
                                 </ul>
-                                <h2>10. Operating System Basics</h2>
+                                <hr>
+                                <h2 id="chp10">10. Operating System Basics</h2>
                                 <p>An operating system (OS) is system software that manages computer hardware, software, and resources.</p>
                                 <h4>Functions:</h4>
                                 <ul>
@@ -147,7 +156,8 @@ permalink: basic/basic-computer/
                                     <li>GUI (Graphical), CLI (Command Line)</li>
                                     <li>Examples: Windows, Linux, macOS, Android</li>
                                 </ul> 
-                                <h2>11. Computer Networking</h2>
+                                <hr>
+                                <h2 id="chp11">11. Computer Networking</h2>
                                 <p>Networking connects computers to share data.</p>
                                 <h4>Types:</h4>
                                 <ul>
@@ -156,7 +166,8 @@ permalink: basic/basic-computer/
                                     <li><strong>WAN (Wide Area Network):</strong> Large scale like the internet</li>
                                 </ul>
                                 <p><strong>Devices:</strong> Router, Switch, Hub, Modem</p>  
-                                <h2>12. Internet Basics</h2>
+                                <hr>
+                                <h2 id="chp12">12. Internet Basics</h2>
                                 <p>The internet is a global network of computers.</p>
                                 <h4>Terms:</h4>
                                 <ul>
@@ -166,7 +177,8 @@ permalink: basic/basic-computer/
                                     <li><strong>Email:</strong> Electronic messaging</li>
                                     <li><strong>Cloud Computing:</strong> Using remote servers for storage and software</li>
                                 </ul>
-                                <h2>13. Cyber Safety & Best Practices</h2>
+                                <hr>
+                                <h2 id="chp13">13. Cyber Safety & Best Practices</h2>
                                 <p>Cyber safety involves protecting yourself online.</p>
                                 <h4>Tips:</h4>
                                 <ul>
@@ -176,7 +188,8 @@ permalink: basic/basic-computer/
                                     <li>Use secure websites (HTTPS)</li>
                                     <li>Be aware of phishing and scams</li>
                                 </ul>
-                                <h2>14. Practical Computer Applications</h2>
+                                <hr>
+                                <h2 id="chp14">14. Practical Computer Applications</h2>
                                 <p>Hands-on practice is essential:</p>
                                 <ul>
                                     <li>Windows OS navigation</li>
