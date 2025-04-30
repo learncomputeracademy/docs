@@ -12,7 +12,7 @@ permalink: basic/basic-computer/
                         <div class="col-md-9 content">
                             <!-- Your content goes started here -->
                             <div class="doc-content">
-                                <h1>Basic computer</h1>
+                                <h1>Fundamentals of Computer</h1>
                                 <h4>📘 Contents</h4>
                                 <ol>
                                     <li><a href="#chp1">💡 Introduction to Computers</a></li>
