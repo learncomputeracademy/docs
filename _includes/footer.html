@@ -86,23 +86,31 @@
 <script src="{{ site.baseurl }}/assets/OwlCarousel2/owl.carousel.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/script.js"></script>
 <script>
-/* $(document).ready(function() {
-        
-    $('#warning').click(function(){
-        $(this).css('display','none');
-    });
+    /* $(document).ready(function() {
+            
+        $('#warning').click(function(){
+            $(this).css('display','none');
+        });
 
-});*/
-function fn(){
-    // Store
-    localStorage.setItem("website", "LCA");
-}
+    });*/
+    function fn(){
+        // Store
+        localStorage.setItem("website", "LCA");
+    }
 
-if("user" in localStorage){
-    document.getElementById('warning').style.display = 'none';
-} else {
-   //alert('no');
-}
+    if("user" in localStorage){
+        document.getElementById('warning').style.display = 'none';
+    } else {
+    //alert('no');
+    }
+
+    if (window.location.href !== 'https://docs.learncomputer.in/') {
+        const logoWhite = document.querySelector('.logo-white');
+        if (logoWhite) {
+            logoWhite.remove();
+        }
+    }
+
 
 </script>
 
