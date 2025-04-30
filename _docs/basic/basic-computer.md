@@ -336,6 +336,6 @@ permalink: basic/basic-computer/
                         <!-- Right-Sidebar End -->
                     </div>
                     <!-- Footer Start -->
-                    <?php include '../includes/footer.php'; ?>
+                    <?php include '../includes/footer.html'; ?>
                 </div>
 
