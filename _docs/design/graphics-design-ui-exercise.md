@@ -18,7 +18,7 @@ permalink: design/graphics-design-ui-exercise/
        <thead class="thead-shades">
         <tr>
          <th scope="col">Exercise</th>
-         <th scope="col">Download Images and Copy</th>
+         <th scope="col">Download Image and Copy</th>
         </tr>
        </thead>
        <tbody>
@@ -52,7 +52,7 @@ permalink: design/graphics-design-ui-exercise/
          </td>
         </tr>
         <tr>
-         <th scope="row">03. Financial App Design <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-3.jpg" alt="">
+         <th scope="row">03. Shopping App Design <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-3.jpg" alt="">
          </th>
          <td>
           <a href="{{ site.baseurl }}/../assets/img/graphics-design/ui/ui-design-3.png" class="btn btn-primary" download="LCA-ui-03">Download</a>
@@ -66,7 +66,7 @@ permalink: design/graphics-design-ui-exercise/
          </td>
         </tr>
         <tr>
-         <th scope="row">05. Shopping App Design <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-5.jpg" alt="">
+         <th scope="row">05. Dashboard Design <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-5.jpg" alt="">
          </th>
          <td>
           <a href="{{ site.baseurl }}/../assets/img/graphics-design/ui/ui-design-5.png" class="btn btn-primary" download="LCA-ui-05">Download</a>
