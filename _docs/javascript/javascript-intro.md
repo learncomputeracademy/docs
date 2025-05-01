@@ -91,19 +91,19 @@ permalink: javascript/javascript-intro/
                                 <p>❌ Not recommended for large projects (mixes JS with HTML)</p>
                                 <h3>2. Internal Script</h3>
                                 <p>JavaScript can be embedded within the <code>&lt;script&gt;</code> tag in the <code>&lt;head&gt;</code> or <code>&lt;body&gt;</code> of your HTML file.</p>
-                                <pre class="snippet"><code class="html">&lt!DOCTYPE html>
-&lthtml>
-&lthead>
-    &ltscript>
+                                <pre class="snippet"><code class="html">&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+    &lt;script>
     function greet() {
         alert("Welcome to JavaScript!");
     }
-    &lt/script>
-&lt/head>
-&ltbody>
-    &ltbutton onclick="greet()">Greet&lt/button>
-&lt/body>
-&lt/html>
+    &lt;/script>
+&lt;/head>
+&lt;body>
+    &lt;button onclick="greet()">Greet&lt;/button>
+&lt;/body>
+&lt;/html>
 </code></pre>
                                 <p>✅ Good for small projects or testing</p>
                                 <p>❌ Not reusable</p>
@@ -113,8 +113,8 @@ permalink: javascript/javascript-intro/
                                 <pre class="snippet"><code class="html">&lt;script src="app.js">&lt;/script></code></pre>
                                 <code><strong>app.js</strong></code>
                                 <pre class="snippet"><code class="js">function greet() {
-                                    alert("Hello from external JS!");
-                                  }</code></pre>
+    alert("Hello from external JS!");
+}</code></pre>
                                 <p>✅ Clean, reusable, modular</p>
                                 <p>✅ Recommended for real-world projects</p>
                                 <h2>JavaScript Output Methods</h2>
@@ -134,12 +134,11 @@ permalink: javascript/javascript-intro/
                                 <pre class="snippet"><code class="html">&lt;p id="demo">&lt;/p>
 &lt;script>
     document.getElementById("demo").innerHTML = "Hello from JS!";
-    &lt;/script>
-</code></pre>
+&lt;/script></code></pre>
                                 <p>✅ Most commonly used for dynamic content updates</p>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="js-syllabus.md" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="js-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
                                 <a href="html-basic" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
