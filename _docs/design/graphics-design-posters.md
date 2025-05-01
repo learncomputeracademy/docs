@@ -110,7 +110,7 @@ permalink: design/graphics-design-posters/
        </tbody>
       </table>
       <p class="note">
-       <b>Note:</b> Visit <a href="https://webgraphicshub.com/works/social-media-post-design/" target="_blank">Web Graphics Hub</a> to see more Social Media Poster examples.
+       <b>Note:</b> Visit <a href="https://www.freepik.com/search?color=orange&file_type=jpg&format=search&last_filter=premium&last_value=1&orientation=square&premium=1&query=social+media+post+design+latest+--variety&sort=recent" target="_blank">Freepik</a> to see more Social Media Poster examples.
       </p>
      </div>
      <!-- /.Your content goes ends here -->
