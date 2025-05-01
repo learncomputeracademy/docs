@@ -1,7 +1,7 @@
 ---
 layout: documentation
-title: HTML Intro | Learn Computer Academy
-permalink: html/html-intro/
+title: JavaScript Intro | Learn Computer Academy
+permalink: javascript/javascript-intro/
 ---
 <div class="loader">
 {% include innerpage-navigation.html %}
