@@ -138,8 +138,8 @@ permalink: javascript/javascript-intro/
                                 <p>✅ Most commonly used for dynamic content updates</p>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="js-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="html-basic" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/js-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="#" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>
