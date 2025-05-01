@@ -156,7 +156,7 @@ console.log("Are both greater than 0?", a > 0 && b > 0);
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
                                 <a href="/javascript/javascript-intro" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="/javascript/javascript-basics" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/javascript-control-flow" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>
