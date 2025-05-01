@@ -1,3 +1,15 @@
+- name: Tanmoy Mondal
+  course: Frontend Designer
+  testimonial: "Best Computer center in Habra to learn website design and development.I have already learnt graphics design from here and now I am learning website design and development here, which includes HTML, CSS, javascript, PHP, MySQL.... In the future I hope to learn node js, react js and python programming from here... The infrastructure is top notch and the trainers and teachers here are professionals.. They also show us live projects work which is very helpful to understand the web design industry.. I recommend everyone to join here for best career growth."
+  image: "tanmoy-mondal.jpg"
+  rating: 5
+
+- name: Srijita Karmakar
+  course: Backend Developer
+  testimonial: "I am learning Python and C Programming from Learn computer Academy. I found it is one of the best institute in Habra for learning Programming. I have also realized, I have learned more from here than my college."
+  image: "user-icon.jpg"
+  rating: 5
+
 - name: Ratnadeep Dutta
   course: Fullstack Development
   testimonial: "I recently had the studied in Learn Computer Academy, and I must say, it’s one of the best institutes for graphic design, website design, and web development training in Habra. After Completing college, I was looking for jobs when I learned about website design career... Now I am employed in Kolkata, thanks to the instructors at Learn Computer Academy"
