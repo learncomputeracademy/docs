@@ -59,19 +59,33 @@ permalink: design/graphics-design-ui-exercise/
          </td>
         </tr>
         <tr>
-         <th scope="row">04. Financial App Design <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-4.jpg" alt="">
+         <th scope="row">04. User Dashboard Design <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-4.jpg" alt="">
          </th>
          <td>
           <a href="{{ site.baseurl }}/../assets/img/graphics-design/ui/ui-design-4.jpg" class="btn btn-primary" download="LCA-ui-04">Download</a>
          </td>
         </tr>
         <tr>
-         <th scope="row">05. Financial App Design <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-5.jpg" alt="">
+         <th scope="row">05. Shopping App Design <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-5.jpg" alt="">
          </th>
          <td>
           <a href="{{ site.baseurl }}/../assets/img/graphics-design/ui/ui-design-5.png" class="btn btn-primary" download="LCA-ui-05">Download</a>
          </td>
         </tr>
+        <tr>
+         <th scope="row">06. Task Management App <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-6.jpg" alt="">
+         </th>
+         <td>
+          <a href="{{ site.baseurl }}/../assets/img/graphics-design/ui/ui-design-6.jpg" class="btn btn-primary" download="LCA-ui-06">Download</a>
+         </td>
+        </tr> 
+        <tr>
+         <th scope="row">07. Shopping App <img src="{{ site.baseurl }}/../assets/img/graphics-design/ui/thumbnail/ui-design-7.jpg" alt="">
+         </th>
+         <td>
+          <a href="{{ site.baseurl }}/../assets/img/graphics-design/ui/ui-design-7.jpg" class="btn btn-primary" download="LCA-ui-07">Download</a>
+         </td>
+        </tr>                
        </tbody>
       </table>
       <div class="note">
