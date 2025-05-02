@@ -115,7 +115,7 @@ greetUser("Alice", showMessage);</code></pre>
                                 <p>Useful for:</p>
                                 <ul>
                                   <li>Avoiding global variable pollution</li>
-                                  <li>Creating private scopes></li>
+                                  <li>Creating private scopes</li>
                                 </ul>
                                 <h2>Summary</h2>
                                 <table class="table table-striped table-bordered">
