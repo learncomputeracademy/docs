@@ -121,35 +121,57 @@ console.log(text.toLowerCase()); // learn javascript</code></pre>
                                             <td>Joins two strings</td>
                                             <td><code>"Hi".concat(" there")</code> → <code>"Hi there"</code></td>
                                         </tr>
-                                        
                                     </tbody>
                                 </table>  
+                                <h2>Template Literals (ES6)</h2>
+                                <p>Template literals use backticks (` `) to support:</p>  
+                                <ul>
+                                    <li>Multi-line strings</li>
+                                    <li>Variable interpolation using <code>${}</code></li>
+                                </ul>
+                                <pre class="snippet"><code class="js">const name = "Amit";
+const greeting = `Hello, ${name}!`;
+console.log(greeting); // Hello, Amit!</code></pre> 
+                                <pre class="snippet"><code class="js">const fullMessage = `
+Dear Student,
+Your result is ready.
                                     
-
-
-
-
-
-
-
-
-
-
-
-
-
+Regards,
+Admin
+`;
+console.log(fullMessage);</code></pre> 
+                                <h2>Escape Characters</h2>
+                                <p>Use <code>\</code> (backslash) to escape special characters:</p>
+                                <pre class="snippet"><code class="js">const quote = "He said, \"Let's go!\"";</code></pre>
+                                <p>Other escape sequences:
+                                <ul>
+                                    <li><code>\n</code> - New line</li>
+                                    <li><code>\t</code> - Tab</li>
+                                    <li><code>\\</code> - Backslash</p></li>
+                                </ul>
+                                <h2>String Comparison</h2>
+                                <p>Strings can be compared alphabetically using <code>==</code>, <code>===</code>, <code>&lt;</code>, <code>&gt;</code>:</p>
+                                <pre class="snippet"><code class="js">console.log("apple" &lt; "banana"); // true
+console.log("A" &lt; "a"); // true (uppercase comes before lowercase)</code></pre>    
+                                <h2>String Immutability</h2>  
+                                <p>Strings are immutable — you can't change a character directly:</p>  
+                                <pre class="snippet"><code class="js">let msg = "hello";
+msg[0] = "H";  // ❌ Invalid
+msg = "Hello"; // ✅ Correct way</code></pre>
                                 <h2>🧪 Practice Exercise:</h2>
                                 <h3>Task:</h3>
                                 <ol>
-                                    <li>Create an array of your favorite movies and print each using a loop.</li>
-                                    <li>Add and remove items using <code>push()</code> and <code>pop()</code>.</li>
-                                    <li>Create an array of numbers and use <code>map()</code> to double each number.</li>
-                                    <li>Filter an array to find all even numbers.</li>
-                                    <li>Use <code>splice()</code> to replace an item in the array.</li>
+                                    <li>Create a string with your full name and print each character using a loop.</li>
+                                    <li>Count how many times the letter <code>a</code> appears using <code>.split()</code> and <code>.length</code>.</li>
+                                    <li>Use <code>slice()</code> to extract the first name from a full name.</li>
+                                    <li>Convert <code>" Welcome! "</code> to <code>"welcome!"</code> (trim + lowercase).</li>
+                                    <li>Use template literals to print:</li>
                                 </ol>
+                                <pre class="snippet"><code class="js">Hello, [Your Name]!
+Welcome to JavaScript Strings.</code></pre>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="/javascript/javascript-basics" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/javascript/javascript-arrays" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
                                 <a href="/javascript/" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
