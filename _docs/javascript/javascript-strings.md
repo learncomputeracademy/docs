@@ -172,7 +172,7 @@ Welcome to JavaScript Strings.</code></pre>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
                                 <a href="/javascript/javascript-arrays" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="/javascript/" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/math-and-numbers" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>
