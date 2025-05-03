@@ -176,9 +176,6 @@ Welcome to JavaScript Strings.</code></pre>
                             </div>
                             <!-- /.End of footer button -->
                         </div>
-                        <!-- Right Sidebar Start-->
-                        <?php include './includes/right-sidebar-innerpage.php'; ?>
-                        <!-- Right-Sidebar End -->
                     </div>
                 </div>
 
