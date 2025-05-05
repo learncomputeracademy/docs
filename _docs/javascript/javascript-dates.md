@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: JavaScript Dates | Learn Computer Academy
-permalink: javascript/javaScript-dates/
+permalink: javascript/javascript-dates/
 ---
 <div class="loader">
 {% include innerpage-navigation.html %}
@@ -181,15 +181,15 @@ console.log(d); // Sat Feb 01 2025</code></pre>
                                 <h3>Task:</h3>
                                 <ol>
                                     <li>Create a new date for your birthday.</li>
-                                    <li>Print the current year, month, and date using get...() methods.</li>
+                                    <li>Print the current year, month, and date using <code>get...()</code> methods.</li>
                                     <li>Calculate how many days are left until New Year.</li>   
                                     <li>Compare two dates to check which comes first.</li>
-                                    <li>Format today’s date as "DD-MM-YYYY" using string interpolation.</li>
+                                    <li>Format today’s date as <code>"DD-MM-YYYY"</code> using string interpolation.</li>
                                 </ol>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
-                                <a href="/javascript/javascript-strings" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="/javascript/" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/javascript-math-and-numbers" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
+                                <a href="/javascript/javascript-events" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>
