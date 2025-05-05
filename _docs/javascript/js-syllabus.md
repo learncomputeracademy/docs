@@ -214,7 +214,7 @@ permalink: javascript/js-syllabus/
                                     <li>API Integration Practice</li>
                                     <li>Form Validation Project</li>
                                 </ul> 
-                                <p class="note"><b>NOTE:</b> We recommend reading <a href="https://www.w3schools.com/js/default.asp">this tutorial</a>, in the sequence listed in the left menu. If you try all the examples, you will learn a lot about JavaScript, in a very short time!</p>  
+                                <p class="note"><b>NOTE:</b> We recommend reading <a href="/javascript/javascript-intro">this tutorial</a>, in the sequence listed in the left menu. If you try all the examples, you will learn a lot about JavaScript, in a very short time!</p>  
                             </div>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
