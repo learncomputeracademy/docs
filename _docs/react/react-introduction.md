@@ -67,7 +67,7 @@ permalink: react/react-introduction/
                                 <p class="note"><strong>React</strong> is like assembling a car using high-quality prebuilt components (engine block, seats, dashboard) with flexible customization.</p>
                                 <h2>Example: Creating a Button that Shows an Alert</h2>
                                 <h3>1. Vanilla JS Approach</h3>
-                                <pre class="snippet"><code class="js">&lt;!-- index.html --&gt;
+                                <pre class="snippet"><code class="html">&lt;!-- index.html --&gt;
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -93,6 +93,54 @@ permalink: react/react-introduction/
 &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
+                                <h2> Breakdown:</h2>
+                                <ul>
+                                    <li>Manually create a button element.</li>
+                                    <li>Add styles via JavaScript.</li>
+                                    <li>Attach event listeners.</li>
+                                    <li>Append to the DOM.</li>
+                                </ul>
+                                <h2>2. React JS Approach (with CDN)</h2>
+                                <pre class="snippet"><code class="html">&lt;!-- react.html --&gt;
+                                    &lt;!DOCTYPE html&gt;
+                                    &lt;html&gt;
+                                    &lt;head&gt;
+                                      &lt;title&gt;React Button&lt;/title&gt;
+                                      &lt;script src="https://unpkg.com/react@18/umd/react.development.js" crossorigi&gt;&lt;/script&gt;
+                                      &lt;script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin&gt;&lt;/script&gt;
+                                      &lt;script src="https://unpkg.com/@babel/standalone/babel.min.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div id="root"&gt;&lt;/div&gt;
+
+    &lt;script type="text/babel"&gt;
+    function App() {
+        const handleClick = () => {
+        alert('Hello from React!');
+        };
+
+        return (
+        &lt;button
+            onClick={handleClick}
+            style={{ padding: '10px 20px', fontSize: '16px' }}
+        &gt;
+            Click Me
+        &lt;/button&gt;
+        );
+    }
+
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(&lt;App /&gt;);
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>                                
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
 
 
 
