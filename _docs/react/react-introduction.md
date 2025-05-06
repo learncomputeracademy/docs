@@ -102,13 +102,13 @@ permalink: react/react-introduction/
                                 </ul>
                                 <h2>2. React JS Approach (with CDN)</h2>
                                 <pre class="snippet"><code class="html">&lt;!-- react.html --&gt;
-                                    &lt;!DOCTYPE html&gt;
-                                    &lt;html&gt;
-                                    &lt;head&gt;
-                                      &lt;title&gt;React Button&lt;/title&gt;
-                                      &lt;script src="https://unpkg.com/react@18/umd/react.development.js" crossorigi&gt;&lt;/script&gt;
-                                      &lt;script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin&gt;&lt;/script&gt;
-                                      &lt;script src="https://unpkg.com/@babel/standalone/babel.min.js"&gt;&lt;/script&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;React Button&lt;/title&gt;
+    &lt;script src="https://unpkg.com/react@18/umd/react.development.js" crossorigi&gt;&lt;/script&gt;
+    &lt;script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin&gt;&lt;/script&gt;
+    &lt;script src="https://unpkg.com/@babel/standalone/babel.min.js"&gt;&lt;/script&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;div id="root"&gt;&lt;/div&gt;
@@ -122,7 +122,7 @@ permalink: react/react-introduction/
         return (
         &lt;button
             onClick={handleClick}
-            style={{ padding: '10px 20px', fontSize: '16px' }}
+            style=\{\{ padding: '10px 20px', fontSize: '16px' \}\}
         &gt;
             Click Me
         &lt;/button&gt;
