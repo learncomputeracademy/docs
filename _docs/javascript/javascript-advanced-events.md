@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: JavaScript Events Advanced | Learn Computer Academy
-permalink: javascript/javascript-events-advanced/
+permalink: javascript/javascript-advanced-events/
 ---
 <div class="loader">
 {% include innerpage-navigation.html %}
