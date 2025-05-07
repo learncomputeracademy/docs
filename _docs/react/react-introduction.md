@@ -122,7 +122,7 @@ permalink: react/react-introduction/
         return (
         &lt;button
             onClick={handleClick}
-            style={{ padding: '10px 20px', fontSize: '16px' }}
+            style=&lcub;&lcub; padding: '10px 20px', fontSize: '16px' &rcub;&rcub;
         &gt;
             Click Me
         &lt;/button&gt;
