@@ -21,16 +21,12 @@ permalink: javascript/javascript-localstorage-and-sessionstorage/
                                 <table class="table table-striped table-bordered">
                                   <thead class="thead-shades">
                                       <tr>
-                                          <th scope="col">Mistake</th>
-                                          <th scope="col">Explanation</th>
-                                      </tr>
-                                  </thead>
-                                  <tbody>
-                                      <tr>
                                           <td>Type</td>
                                           <td>Lifespan</td>
                                           <td>Scope</td>
-                                      </tr>  
+                                      </tr>
+                                  </thead>
+                                  <tbody>  
                                       <tr>
                                           <td><code>localStorage</code></td>
                                           <td><strong>Persistent</strong> (until manually cleared)</td>
