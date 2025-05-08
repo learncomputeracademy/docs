@@ -21,9 +21,9 @@ permalink: javascript/javascript-localstorage-and-sessionstorage/
                                 <table class="table table-striped table-bordered">
                                   <thead class="thead-shades">
                                       <tr>
-                                          <td>Type</td>
-                                          <td>Lifespan</td>
-                                          <td>Scope</td>
+                                          <th scope="col">Type</th>
+                                          <th scope="col">Lifespan</th>
+                                          <th scope="col">Scope</th>
                                       </tr>
                                   </thead>
                                   <tbody>  
