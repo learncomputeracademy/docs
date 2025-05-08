@@ -58,7 +58,7 @@ permalink: javascript/javascript-fetch-api/
                               <pre class="snippet"><code class="js">fetch("https://jsonplaceholder.typicode.com/posts/1")
   .then(res => res.json())
   .then(data => console.log(data));
-</code>
+</code></pre>
                             <h2>POST Request Example</h2>
                             <pre class="snippet"><code class="js">fetch("https://jsonplaceholder.typicode.com/posts", {
   method: "POST",
