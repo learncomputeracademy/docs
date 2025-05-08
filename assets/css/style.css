@@ -5870,7 +5870,7 @@ b.highlight {
 /* LCA CHAT APP */
 #lcacontactus-widget{opacity:0;transition:0.2s opacity;}
 #lcacontactus-widget *{box-sizing:border-box;}
-#lcacontactus-widget.left.lcacontactus-message{left:20px;right:auto;}
+#lcacontactus-widget.left.lcacontactus-message{right:20px;right:auto;}
 #lcacontactus-widget.left .messangers-block{right:auto;left:0;-webkit-transform-origin:10% 105%;-ms-transform-origin:10% 105%;transform-origin:10% 105%;}
 #lcacontactus-widget.left .callback-countdown-block{left:0;right:auto;}
 #lcacontactus-widget.left .messangers-block::before,#lcacontactus-widget.left .callback-countdown-block::before{left:25px;right:auto;}
