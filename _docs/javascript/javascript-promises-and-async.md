@@ -1,7 +1,7 @@
 ---
 layout: documentation
-title: JavaScript Classes and OOP | Learn Computer Academy
-permalink: javascript/javascript-classes-oop/
+title: JavaScript Promises and Async | Learn Computer Academy
+permalink: javascript/javascript-promises-and-async/
 ---
 <div class="loader">
 {% include innerpage-navigation.html %}
