@@ -100,7 +100,7 @@ console.log(triple(5)); // 15</code></pre>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
                                 <a href="/javascript/javascript-scope-hoisting" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="/javascript/" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/javascript-this-keyword" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>
