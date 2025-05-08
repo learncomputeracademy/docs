@@ -71,7 +71,7 @@ const userData = JSON.parse(localStorage.getItem("user"));
 console.log(userData.name); // Alex</code></pre>
                               <h2>Limitations of Web Storage</h2>
                               <ul>
-                                <li>Storage limit: ~5MB per origin (varies by browser)</li>
+                                <li>Storage limit: <strong>~5MB</strong> per origin (varies by browser)</li>
                                 <li>Only accessible on the <strong>same origin</strong> (protocol + domain + port)</li>
                                 <li>Not secure for sensitive data — it's accessible via JavaScript</li>
                                 <li>No expiration for <code>localStorage</code> unless manually removed</li>
