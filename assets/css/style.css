@@ -5868,6 +5868,9 @@ b.highlight {
 
 
 /* LCA CHAT APP */
+div#lca-custom-contact {
+    display: none;
+}
 #lcacontactus-widget{opacity:0;transition:0.2s opacity; display: none;}
 #lcacontactus-widget *{box-sizing:border-box;}
 #lcacontactus-widget.left.lcacontactus-message{right:20px;right:auto;}
