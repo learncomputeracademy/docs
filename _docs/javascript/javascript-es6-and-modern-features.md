@@ -103,7 +103,7 @@ console.log(add(2, 3));</code></pre>
                               <ul>
                                 <li>ES6 brought powerful improvements to variable scoping (<code>let</code>, <code>const</code>), cleaner syntax (arrow functions, template literals), and more.</li>
                                 <li>Spread/rest operators, destructuring, and modules simplify code and improve reusability.</li>
-                                <li>These features are foundational for modern JavaScript and frameworks like React, Vue, and Angular.</li>es
+                                <li>These features are foundational for modern JavaScript and frameworks like React, Vue, and Angular.</li>
                               </ul>             
                               <h2>🧪 Practice Exercise:</h2>
                               <h3>Task:</h3>
@@ -117,7 +117,7 @@ console.log(add(2, 3));</code></pre>
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
                                 <a href="/javascript/javascript-fetch-api" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="/javascript/" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/javascript-module-import-export" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>

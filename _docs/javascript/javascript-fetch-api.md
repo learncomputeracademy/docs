@@ -145,7 +145,7 @@ userId: 1}) })
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
                                 <a href="/javascript/javascript-json-and-data-fetching" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="/javascript/javascript-es6-and-modern-features.md" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/javascript-es6-and-modern-features" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>
