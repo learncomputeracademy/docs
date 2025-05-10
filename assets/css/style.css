@@ -5868,7 +5868,7 @@ b.highlight {
 
 
 /* LCA CHAT APP */
-#lcacontactus-widget{opacity:0;transition:0.2s opacity;}
+#lcacontactus-widget{opacity:0;transition:0.2s opacity; display: none;}
 #lcacontactus-widget *{box-sizing:border-box;}
 #lcacontactus-widget.left.lcacontactus-message{right:20px;right:auto;}
 #lcacontactus-widget.left .messangers-block{right:auto;left:0;-webkit-transform-origin:10% 105%;-ms-transform-origin:10% 105%;transform-origin:10% 105%;}
