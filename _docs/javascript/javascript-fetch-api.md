@@ -15,8 +15,8 @@ permalink: javascript/javascript-fetch-api/
                                 <h1>JavaScript Fetch API & HTTP Requests (Advanced)</h1>
                                 <p><em>(Mastering GET, POST, PUT, DELETE requests and advanced fetch handling)</em></p>
                                 <hr>
-                                <h2>What is Web Storage?</h2>
-                                <p>The Fetch <strong>API</strong> is a modern interface for making HTTP requests in JavaScript. It returns a <strong>Promise</strong> and is more powerful and flexible than older methods like <code>XMLHttpRequest</code>.</p>
+                                <h2>What is the Fetch API?</h2>
+                                <p>The <strong>Fetch API</strong> is a modern interface for making HTTP requests in JavaScript. It returns a <strong>Promise</strong> and is more powerful and flexible than older methods like <code>XMLHttpRequest</code>.</p>
                                 <h2>Basic Structure of Fetch</h2>
                                 <pre class="snippet"><code class="js">fetch(url, {
  method: 'GET' | 'POST' | 'PUT' | 'DELETE',
@@ -145,7 +145,7 @@ userId: 1}) })
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
                                 <a href="/javascript/javascript-json-and-data-fetching" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
-                                <a href="/javascript/" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="/javascript/javascript-es6-and-modern-features.md" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                             <!-- /.End of footer button -->
                         </div>
