@@ -88,11 +88,6 @@ console.log(math.add(2, 3)); // 5
                                 <li>Modules are scoped, strict, and avoid polluting the global namespace.</li>
                                 <li>Mastering modules is essential for scalable applications and working with modern frameworks.</li>
                               </ul>
-
-
-
-
-       
                               <h2>🧪 Practice Exercise:</h2>
                               <h3>Task:</h3>
                               <ol>
