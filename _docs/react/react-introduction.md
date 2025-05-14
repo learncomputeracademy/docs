@@ -135,199 +135,59 @@ permalink: react/react-introduction/
 &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>                                
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                <h2> Breakdown:</h2>
                                 <ul>
-                                    <li>What is React?</li>
-                                    <li>Why use React over Vanilla JS?</li>
-                                    <li>Real-world analogy: UI building with vs. without a toolkit</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Vanilla JS: Creating a dynamic button and appending to DOM</li>
-                                            <li>React: JSX-based component rendering the same button</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 2: Getting Started</h2>
+                                    <li>Define a component as a function.</li>
+                                    <li>Use JSX to describe the UI.</li>
+                                    <li><code>onClick</code> is syntactic sugar around event listeners.</li>
+                                    <li>Styles can be applied via objects.</li>
+                                </ul>  
+                                <h2>Summary</h2>    
+                                <table class="table table-striped table-bordered">
+                                    <thead class="thead-shades">
+                                        <tr>
+                                            <th scope="col">Feature</th>
+                                            <th scope="col">Vanilla JS</th>
+                                            <th scope="col">React</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>DOM Access</td>
+                                            <td><code>document.getElementById</code></td>
+                                            <td>Not needed; declarative rendering</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Event Binding</td>
+                                            <td><code>addEventListener</code></td>
+                                            <td><code>onClick</code>, <code>onChange</code> via props</td>
+                                        </tr>
+                                        <tr>
+                                            <td>UI Definition</td>
+                                            <td>HTML + JS DOM Manipulation</td>
+                                            <td>JSX + Component function</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Readability</td>
+                                            <td>Lower for large apps</td>
+                                            <td>High (especially with reuse)</td>
+                                        </tr>                                                                                
+                                    </tbody>
+                                </table>  
+                                <h2>What’s Next?</h2>   
+                                <p>In <strong>Chapter 2</strong>, we’ll:</p>   
                                 <ul>
-                                    <li>Setting up a simple HTML/JS project</li>
-                                    <li>Setting up React (via CDN or Create React App)</li>
-                                    <li>Comparison Table of Tooling & Folder Structure</li>
-                                </ul>
-                                <h2>Chapter 3: Creating Your First Component</h2>
-                                <ul>
-                                    <li>Vanilla JS: Function to create and return a DOM element</li>
-                                    <li>React: Functional Component with JSX</li>
-                                    <li>Props vs. Function Parameters</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>UserCard component in both approaches</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 4: JSX vs. DOM Manipulation</h2>
-                                <ul>
-                                    <li>What is JSX?</li>
-                                    <li>JSX syntax vs. document.createElement</li>
-                                    <li>Inline styles and className difference</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Styled button with dynamic text</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 5: State Management</h2>
-                                <ul>
-                                    <li>Why state is needed</li>
-                                    <li>Vanilla JS: Using variables and manual DOM update</li>
-                                    <li>React: useState Hook</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Counter app (Vanilla vs. React)</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 6: Event Handling</h2>
-                                <ul>
-                                    <li>Attaching events in Vanilla JS (addEventListener)</li>
-                                    <li>React’s event system (onClick, onChange)</li>
-                                    <li>Synthetic events</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Input field capturing value on change</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 7: Conditional Rendering</h2>
-                                <ul>
-                                    <li>if blocks, ternary, and logical && in Vanilla JS</li>
-                                    <li>React’s conditional rendering with JSX</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Toggle visibility of content </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 8: Lists and Keys</h2>
-                                <ul>
-                                    <li>Looping through arrays in JS (<code>forEach</code>, <code>map</code>)</li>
-                                    <li><code>map()</code> in JSX and the importance of <code>key</code></li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Display a list of products</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 9: Forms and Inputs</h2>
-                                <ul>
-                                    <li>Handling inputs and forms in Vanilla JS (manual <code>value</code> read)</li>
-                                    <li>Controlled components in React</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Login form with validation</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 10: Component Composition</h2>
-                                <ul>
-                                    <li>Nesting and modularizing in Vanilla JS vs. React</li>
-                                    <li>Reusability of components</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Layout with Header, Sidebar, and Footer</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 11: Lifecycle vs. useEffect</h2>
-                                <ul>
-                                    <li>Vanilla JS lifecycle: DOMContentLoaded, custom watchers</li>
-                                    <li>React Hooks: useEffect for side effects</li>
-                                    <li>Cleanup logic</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>API call on mount</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 12: Props Drilling vs. Lifting State</h2>
-                                <ul>
-                                    <li>Passing data in function calls (Vanilla)</li>
-                                    <li>React: Passing props and lifting state up</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Child updating parent state</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 13: Conditional Class & Styles</h2>
-                                <ul>
-                                    <li>Vanilla: <code>element.classList.add/remove</code></li>
-                                    <li>React: Conditional <code>className</code></li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Button that toggles active/inactive</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 14: Routing</h2>
-                                <ul>
-                                    <li>Manual route handling in Vanilla JS (hashchange)</li>
-                                    <li>React Router basics</li>
-                                    <li>Example:
-                                        <ul>
-                                            <li>Two-page app with navigation links</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <h2>Chapter 15: Project: Todo App</h2> 
-                                <ul>
-                                    <li>Full comparison of Vanilla JS vs. React implementation</li>
-                                    <li>Folder structure</li>
-                                    <li>Features: Add, delete, mark complete </li>
-                                </ul>
-                                <h2>Chapter 16: Next Steps</h2>
-                                <ul>
-                                    <li>React Context API vs. global state in Vanilla JS</li>
-                                    <li>Integration with APIs (Fetch, Axios)</li>
-                                    <li>Testing</li>
-                                    <li>Deploying the app</li>
-                                </ul>
-                            </div>
+                                    <li>Set up a basic project with both Vanilla JS and React.</li>
+                                    <li>Explore file structure and rendering basics.</li>
+                                </ul>    
                             <!-- /.Your content goes ends here -->
                             <div class="footer-btn d-flex justify-content-between">
                                 <a href="/css/css-syllabus" class="btn"><i class="fas fa-arrow-circle-left"></i>Previous</a>
                                 <a href="/javascript/javascript-intro" class="btn">Next<i class="fas fa-arrow-circle-right"></i></a>
                             </div>
-                            <!-- /.End of footer button -->
+                            <!-- /.End of footer button --> 
                         </div>
                     </div>
-                </div>
+                </div>                                
+                                    
+                        

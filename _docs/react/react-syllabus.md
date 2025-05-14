@@ -28,8 +28,8 @@ permalink: react/react-syllabus/
                                 <hr>
                                 <h2>Chapter 1: Introduction to React vs. Vanilla JS</h2>
                                 <ul>
-                                    <li>What is React?</li>
-                                    <li>Why use React over Vanilla JS?</li>
+                                    <li>What is <a href="/react/react-introduction">React</a>?</li>
+                                    <li>Why use React over <a href="/javascript/javascript-intro">Vanilla JS</a>?</li>
                                     <li>Real-world analogy: UI building with vs. without a toolkit</li>
                                     <li>Example:
                                         <ul>
