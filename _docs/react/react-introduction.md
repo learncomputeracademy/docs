@@ -22,7 +22,6 @@ permalink: react/react-introduction/
                                 <h2>Introduction to React vs. Vanilla JS</h2>
                                 <p>Welcome to the world of React! If you're new to web development or just starting with React, you're in the right place. In this guide, we’ll take a look at what React is, why it’s important, and the interesting story behind its creation. Let's begin!</p>
                                 <p>React is a <strong>JavaScript library</strong> for building <strong>user interfaces</strong>. It was created by <strong>Facebook (now Meta)</strong> to help developers build fast and interactive web applications. With React, you can create web pages that <strong>update automatically</strong> when data changes, without needing to reload the page manually.</p>
-
                                 <h2>Why is React Important?</h2>
                                 <p>Before React, developers had to write a lot of code to manage updates on a webpage. Every time something changed (like a new message or a new comment), the entire page had to reload or update manually. This was slow and inefficient.</p>
                                 <p>React makes web development <strong>faster</strong>, <strong>simpler</strong>, and <strong>more efficient</strong> by:</p>
