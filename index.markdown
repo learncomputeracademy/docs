@@ -11,7 +11,7 @@ title: Home | Learn Computer Academy
        <div class="row">
          <div class="col-lg-6 col-md-12 order-lg-first">
            <div class="header-text">
-             <h1>Guide and Tutorials for students of <strong>Learn Computer Academy</strong>
+             <h1>Guides and Tutorials for students of <strong>Learn Computer Academy</strong>
              </h1>
              <p>Want to become a professional Front-end developer? Browse through our vast collection of <span>Graphics Design</span>, <span>Web Design,</span> and <span>Web Development</span> documentation. </p>
              <div class="header-btn">
